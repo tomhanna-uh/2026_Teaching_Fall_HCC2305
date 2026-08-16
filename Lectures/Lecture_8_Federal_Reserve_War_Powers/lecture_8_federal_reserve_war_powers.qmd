@@ -1,29 +1,22 @@
 ---
 title: "Major Examples: Federal Reserve and War Powers"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 28, 2026
-format: 
-        revealjs:
-                self-contained: true
-                incremental: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
-        docx:
-                toc: true
-                number-sections: true
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 
@@ -246,9 +239,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
-
-
-
-
-     
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
