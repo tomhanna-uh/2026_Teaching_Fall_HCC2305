@@ -1,28 +1,21 @@
 ---
-title: "Lectures 3: Basics of Ethics"
+title: "Lecture 3: Basics of Ethics"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 13, 2026
-format: 
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
-        docx:
-                toc: true
-                number-sections: true
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 # Agenda and Announcements
@@ -106,7 +99,7 @@ format:
 
 ## Trolley Problem
 
-![Trolley Problem](trolley.jpg)
+![Trolley Problem](../../assets/trolley.jpg)
 
 
 ## Trolley Problem: Issues
@@ -181,7 +174,7 @@ format:
         - Hadith attributed to the Prophet Muhammed
         
 
-## Philosophical (non-religious) Golden Rule{background-color="red" background-image="confucius.jpg" background-size="200px" background-repeat="repeat"}
+## Philosophical (non-religious) Golden Rule{background-color="red" background-image="../../assets/confucius.jpg" background-size="200px" background-repeat="repeat"}
 
 
 
@@ -248,7 +241,7 @@ Issue with Utilitarianism:
 
 - Consequentialist: only considers outcomes, not means
 - Are there any actions so wrong that the consequence can not justify them? (Deontological consideration)
-- Utitilitarian ends may be important, but should the inherent ethical value of the means be part of the equation?
+- Utilitarian ends may be important, but should the inherent ethical value of the means be part of the equation?
 
 
 
@@ -393,7 +386,7 @@ Fiduciaries should immediately inform clients when problems arise.
 ## Government Officials vs Private Fiduciaries
 
 - There are occasions where some may reasonably not apply
-- In most cases should government officials least live up to the standards of the capitalist private sector?
+- In most cases should government officials at least live up to the standards of the capitalist private sector?
 - If government officials are not expected to live up to the standards of the capitalist free market which only has economic power, how can we trust them with the coercive use of violent force?
 
 
@@ -419,14 +412,14 @@ Fiduciaries should immediately inform clients when problems arise.
 
 ## Aristotle's forms of government
 
-![Aristotle's Typology](govt_types.jpg)
+![Aristotle's Typology](../../assets/govt_types.jpg)
 
 ## Aristotle's forms and government ethics
 
 Questions for each ethical category
 
-- How does a behavior contribute to maintaing the True form of the government?
-- How does a behavior contributed to degrading the government, making it more Despotic?
+- How does a behavior contribute to maintaining the True form of the government?
+- How does a behavior contribute to degrading the government, making it more Despotic?
 - Is the action for the Common Good or the Selfish Interest?
 
 ## Aristotle's forms: Slight digression
@@ -438,7 +431,7 @@ Related point about Constitutional Government:
 - Why do we think Democracy is better than Monarchy? Two reasons:
 
         - Changing meaning of Democracy to mean Polity. 
-        - Democracy represents fundamental political  equality, a society of dignified equals with equality before the law.
+        - Democracy represents fundamental political equality, a society of dignified equals with equality before the law.
 
 
 ## Activities / Discussion
@@ -460,7 +453,7 @@ Related point about Constitutional Government:
         
 - Who is responsible for hired violence, the client or the hired muscle?
 
-![John Wick](john_wick.jpg)
+![John Wick](../../assets/john_wick.jpg)
 
 
 
@@ -487,6 +480,4 @@ John Wick image from Lionsgate Films
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
-
-
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
