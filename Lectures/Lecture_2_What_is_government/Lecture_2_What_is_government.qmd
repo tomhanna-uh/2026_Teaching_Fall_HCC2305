@@ -1,24 +1,21 @@
 ---
 title: "Lecture 2: What is government? What is politics?"
 subtitle: "GOVT2305: Federal Government"
-author: "Instructor: Tom Hanna, Spring 2026"
-date: July 7, 2026
-format: 
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
-        docx:
-                toc: true
-                number-sections: true
-        pdf: 
-                toc: true
-                toc-depth: 2
-                toc-location: left
-                number-sections: true
-                fig_caption: true
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 # Agenda and Announcements
@@ -84,7 +81,7 @@ What is government or "The State"?
 - Government can mean multiple things
 
         - The specific group of people in charge of...
-        - The enduring institution or organization we  government
+        - The enduring institution or organization we call government
 
 - State has at least three meanings
 
@@ -147,17 +144,17 @@ Before stepping on the campus today, what was the last time that politics made a
 
 ## What is politics: Federal, state and local
 
-![Metro rail](metrorail.jpg){width="49%"} 
+![Metro rail](../../assets/metrorail.jpg){width="49%"} 
 
 ## What is politics: Federal, state and local
 
-![HCC Central Campus](hcc_central.jpg){width="49%"}
+![HCC Central Campus](../../assets/hcc_central.jpg){width="49%"}
 
 
 ## What is politics? 
 
 - **Not distant** 
-- **immediate,right here**
+- **immediate, right here**
 - **touches everything**
 - **direct impacts are constant**
 - **involves all of us**
@@ -357,12 +354,12 @@ Making collective decisions in:
 
 ## Politics is powerful
 
-![George Washington](washington_quote.jpg){width="50%"}
+![George Washington](../../assets/washington_quote.jpg){width="50%"}
 
 
 ## Politics is powerful
 
-![Frederick Douglass](power_fredrick_douglass.jpg){width="50%"}
+![Frederick Douglass](../../assets/power_fredrick_douglass.jpg){width="50%"}
 
 # Canvas and e-Book Overview
 
@@ -379,4 +376,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
