@@ -1,28 +1,21 @@
 ---
 title: "Lecture 6: The Bill of Rights"
 subtitle: "The foundation of US civil liberties"
-author: 
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 21, 2026
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
 format:
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 
@@ -198,7 +191,7 @@ Constitution of the United States: First Amendment
 2. No interference with the state established churches
  
                 - 1776 all 13 states had established churches
-                - 1786 Virginia disestablished Church of Englan
+                - 1786 Virginia disestablished Church of England
                 - New Hampshire 1817
                 - Massachusetts (Congregationalist) 1833
 
@@ -361,7 +354,7 @@ Another place in the Bill of Rights which establishes the *sanctity of the home*
 
                 - probable cause
                 - Oath or affirmation
-                - description of place to be search
+                - description of place to be searched
                 - description of person or things to be seized
                 
 ## Fourth Amendment: Two parts
@@ -381,7 +374,7 @@ Another place in the Bill of Rights which establishes the *sanctity of the home*
 - Unreasonable is not defined
 
                 - Confusion because of 2nd part: Are warrants always required for a search to be reasonable? Not according to the courts
-                - Are all searches with warrants reasonable? Not necessarily<sup>1</>
+                - Are all searches with warrants reasonable? Not necessarily<sup>1</sup>
          
          
 <p style="font-size: x-large"><a href = "https://www.law.cornell.edu/wex/fourth_amendment#:~:text=Reasonableness%20Requirement,also%20satisfy%20the%20reasonableness%20requirement.">Cornell University Legal Information Institute</a></p>  
@@ -556,7 +549,7 @@ Constitution of the United States: Seventh Amendment
 
 
 
-## Eight Amendment: Bail, Fines, Punishment
+## Eighth Amendment: Bail, Fines, Punishment
 
 Constitution of the United States: Eighth Amendment
 
@@ -564,13 +557,13 @@ Constitution of the United States: Eighth Amendment
 
 
 
-## Eight Amendment: Bail, Fines, Punishment
+## Eighth Amendment: Bail, Fines, Punishment
 
 - No excessive bail
 - No excessive fines
 - No cruel and unusual punishment
 
-None of these are defined. Do we follow the standard of 1791 or the standard of 2024?
+None of these are defined. Do we follow the standard of 1791 or the standard of today?
 
 
 
@@ -698,5 +691,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
-
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
