@@ -1,37 +1,24 @@
 ---
 title: "Ethics and the Citizen"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: August 4, 2026
-format: 
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                transition: convex
-                incremental: true
-                theme: [default,../assets/custom.css]
-                slide-number: true
-                preview-links: true 
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna"
-        pdf: 
-            toc: true
-            toc-depth: 2
-            toc-location: left
-            number-sections: true
-            fig_caption: true
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    incremental: true
+    theme: [default, ../../assets/custom.scss]
+    slide-number: true
+    preview-links: true
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 
@@ -72,7 +59,7 @@ Does delegating power over the switch change the ethical problem?
 
 ## The Trolley Problem: Delegation
 
-![John Wick](john_wick.jpg)
+![John Wick](../../assets/john_wick.jpg)
 
 ## The Trolley Problem: Delegation
 
@@ -188,7 +175,7 @@ voting and political participation
 
 ## Aristotle True vs Despotic
 
-![Aristotle's Government Types](govt_types.jpg)
+![Aristotle's Government Types](../../assets/govt_types.jpg)
 
 
 ## Back to Aristotle (2)
@@ -202,7 +189,7 @@ voting and political participation
 
 ## By the ruler {.nostretch}
 
-![King versus Tyrant](tyrant.jpg){width="50%"}^[https://www.theleading-edge.org/the-tyrant-and-the-king/]
+![King versus Tyrant](../../assets/tyrant.jpg){width="50%"}^[https://www.theleading-edge.org/the-tyrant-and-the-king/]
 
 
 
@@ -221,7 +208,7 @@ voting and political participation
 
 ## Government Types Aristotle
 
-![Aristotle's Government Types](govt_types.jpg)
+![Aristotle's Government Types](../../assets/govt_types.jpg)
 
 
 
@@ -246,7 +233,7 @@ voting and political participation
 - Is it ever ethical not to vote?
 - Is it ever unethical to vote?
 - What is the ideal ethical way to approach voting?
-- Is it ethicalto sell your vote?
+- Is it ethical to sell your vote?
         
         
 ## The Folk Theory of Voting Ethics
@@ -259,7 +246,7 @@ Brennan, *The Ethics of Voting*
 
 
 
-## The Ethics of VOting
+## The Ethics of Voting
 
 - There is a distinction between
 
@@ -348,7 +335,7 @@ Why not? Because most of us wouldn't want to be disenfranchised and..."What is h
 ## The Ethics of Voting
 
 ::: {.custom-style style="font-size: 60px;"}
-With all the necessary disclaimer and explanation out of the way. (But do rethink this for a monment before getting mad at Brennan's conclusion.)
+With all the necessary disclaimer and explanation out of the way. (But do rethink this for a moment before getting mad at Brennan's conclusion.)
 :::
 
 
@@ -396,7 +383,7 @@ With all the necessary disclaimer and explanation out of the way. (But do rethin
 
         - Understand the issues
         - Really understand them at their core
-        - Don't take the word of politicians or activists or a single expert in a narrow field (evenn college professors) on how things really work
+        - Don't take the word of politicians or activists or a single expert in a narrow field (even college professors) on how things really work
         - and...
         
         
@@ -460,8 +447,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
-
-
-
-
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
