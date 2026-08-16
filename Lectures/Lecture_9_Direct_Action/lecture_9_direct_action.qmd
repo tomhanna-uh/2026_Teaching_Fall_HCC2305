@@ -1,25 +1,24 @@
 ---
 title: "Lecture: Direct Action"
 subtitle: "Democracy beyond the ballot box"
-author: "Tom Hanna"
-date: August 3, 2026
-institute: "Houston City COllege"
-format: 
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                slide-number: true
-                incremental: true
-                transition: convex
-                fontsize: 36px
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026 <img src='../assets/logo.jpg' alt='Logo' style='height:20px;'>  Instructor: Tom Hanna "
-        typst:
-                toc: true
-                number-sections: true
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    slide-number: true
+    incremental: true
+    transition: convex
+    fontsize: 36px
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 
@@ -214,10 +213,8 @@ This battleground is right here on your campus.
 # Your Voice is Your Power
 
 * The First Amendment is a **toolkit**, not just a list.
-* "Direct action" is a **spectrum** of
-    engagement.
-* Understanding your rights is the first step to
-    **using them**.
+* "Direct action" is a **spectrum** of engagement.
+* Understanding your rights is the first step to **using them**.
     
 ## Authorship and License
 
@@ -231,8 +228,3 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 * License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
 Unless otherwise noted all images are the original work of the author or produced by the author using Perplexity or Gemini. 
-
-
-
-
-
