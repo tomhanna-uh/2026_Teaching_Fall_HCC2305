@@ -1,0 +1,263 @@
+---
+title: |
+    | GOVT2305: American Government 2
+    | Lectures 8/Video 13: Congressional Ethics
+    | AIM Section
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+## Overview
+
+- Authority for Congressional Ethics
+- Rules and Regulations
+- Procedure
+- Example Cases
+
+
+## Authority
+
+> "Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and with the Concurrence of two thirds, expel a Member.
+
+        - United States Constitution, Article 1, Section 5, Clause 2
+
+## Implementing Regulations
+
+- House Rules
+- Senate Rules
+- Federal Statutes
+
+        - Ethics in Government Act of 1978 (EIGA)
+
+- Traditional norms in each chamber
+
+
+## Key Principles of Congressional Ethics
+
+
+- Transparency in Financial Disclosures
+- Avoiding Conflicts of Interest
+- Proper Use of Official Resources
+- Fair and Impartial Conduct
+
+
+
+## EIGA
+
+- Ethics in Government Act of 1978 (EIGA)
+
+- Response to the scandals of the Nixon administration
+
+                - Vice President Spiro Agnew was forced to resign because of income tax evasion
+                - President Nixon was forced to resign because of the cover up of the burglary of opposition party (Democratic Party) headquarters at the Watergate building in Washington, D.C.
+                
+
+## EIGA
+
+- Ethics in Government Act of 1978 (EIGA)
+
+- Response to the scandals of the Nixon administration               
+- primarily concerned with financial conflicts of interest
+
+
+## EIGA
+
+- Ethics in Government Act of 1978 (EIGA)
+
+- Response to the scandals of the Nixon administration               
+- primarily concerned with financial conflicts of interest
+
+- Requires officials to make yearly financial disclosures
+
+
+
+## House of Representatives Process
+
+Two enforcement levels:
+
+- Office of Congressional Ethics
+- House Committee on Ethics
+
+
+## Office of Congressional Ethics (OCE)
+
+- independent, non-partisan office
+- Receives reports and initiates investigations
+- Preliminary review
+
+        - 30 days
+        - enough evidence to proceed?
+        
+- Second-phase review
+
+        - 45 days plus possible 14 day extension
+        - Can result in dismissal
+        - Can result in referral to House Committee on Ethics
+        
+- OCE has no power of subpoena and can not discipline members
+
+
+
+## Functions of the House Committee on Ethics
+
+- Interpret and administer the Code of Official Conduct
+- Educate Members, officers, and staff on ethics rules
+- Investigate alleged violations of ethics rules
+- Sanction Members found to have committed violations
+- Receive complaints against Members from other Members
+
+
+## Senate Ethics Process
+
+- Senate Code of Official Conduct
+
+        - Senate Rules 34 through 43
+        - Campaign Activity  
+        - Conflicts of Interest  
+        - Constituent Service  
+        - Financial Disclosure  
+        - Franking, Mass Mailing, and Letterhead  
+        - Gifts  
+        - Prohibition of Unofficial Office Accounts  
+        - Travel 
+
+- Deals with matters related to Senatorial ethics
+- Equal representation of Democrats and Republicans
+- Chair comes from the majority party
+
+
+
+
+## Possible Consequences
+
+
+```{r}
+
+library(kableExtra)
+
+# Create the table above using kableExtra in R Studio Quarto
+sanctions_data <- data.frame(
+  Sanction = c("Expulsion", "Censure", "Reprimand", "Fine", "Other", "Referral to authorities"),
+  Description = c(
+    "Removal from office",
+    "Formal disapproval",
+    "Official rebuke",
+    "Monetary penalty",
+    "Denial of privileges, etc.",
+    "Referral to federal or state authorities for potential legal action"
+  ),
+  "House/Senate" = c("Both", "Both", "Both", "Both", "Both", "Both")
+)
+
+kable(sanctions_data, format = "html", caption = "Types of Sanctions") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+  
+
+```
+  
+
+## Comparison to private trustees {.smaller}
+
+
+```{r}
+# Create the table using kableExtra in R Studio Quarto
+library(kableExtra)
+
+fiduciary_data <- data.frame(
+  Duty = c("Duty of Loyalty", "Duty of Care", "Duty of Good Faith and Fair Dealing", "Duty of Confidentiality", "Full Disclosure","Record Keeping","Informing Clients"),
+  "House of Representatives" = c(
+    "No business with the federal government inconsistent with duties ", 
+    "Protect public trust in office", 
+    "No applicable rule", 
+    "Confidentiality of investigation information", 
+    "No business with the federal government inconsistent with duties","No rule","No rule"
+  ),
+  Senate = c(
+    "Place loyalty above private gain", 
+    "Latitude in ethics rules", 
+    "No applicable rule", 
+    "Confidentiality of reported information", 
+    "Financial Disclosure Reports required","No rule","No rule"
+  )
+)
+
+kable(fiduciary_data, format = "html", caption = "Fiduciary Responsibilities and Ethical Standards") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```
+
+
+## Comparison to private trustees 
+
+- Record Keeping - no rule
+
+- Informing clients (the people) - no rule
+
+        - Note that there is also no ethical or other standard requiring that Congressional committees hold open public meetings
+        - This includes the Ethics Committee which typically holds only closed meetings
+
+
+## Example Cases
+
+## December 30, 2024 Summary Dismissal 
+
+>The Office of Congressional Ethics (OCE) compiled extensive records of potential violations of campaign finance laws and House ethics rules by these members, including personal use of campaign funds, using official resources for personal errands, accepting free gifts of travel, and concealing evidence of abuse.^[https://www.citizen.org/news/the-house-ethics-committee-summarily-dismissing-potential-violations-against-four-members/]
+
+
+## December 30, 2024 Summary Dismissal 
+
+- The House Ethics Committee summarily dismissed all charges against Reps. Alexander Mooney (R-WV), Ronny Jackson (R-TX), Wesley Hunt (R-TX) and Sanford Bishop (D-GA)
+
+
+## Non-cases (Don't violate rules)
+
+> Former Rep. Mick Mulvaney (R-SC) and former first term Chief of Staff to President Donald Trump, stated regarding his office's policy while in the House, “We had a hierarchy in my office in Congress. If you’re a lobbyist who never gave us money, I didn’t talk to you. If you’re a lobbyist who gave us money, I might talk to you.”^[https://www.nytimes.com/2018/04/24/us/mulvaney-consumer-financial-protection-bureau.html?smid=tw-nytimes&smtyp=cur]
+
+
+
+
+
+
+
+## Additional Resources
+
+- House Committee on Ethics: https://ethics.house.gov/
+- Office of Congressional Ethics: https://oce.house.gov/
+- Senate Select Committee on Ethics: https://www.ethics.senate.gov/public/
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+

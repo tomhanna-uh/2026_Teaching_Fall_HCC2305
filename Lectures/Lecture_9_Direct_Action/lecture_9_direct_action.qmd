@@ -1,0 +1,238 @@
+---
+title: "Lecture: Direct Action"
+subtitle: "Democracy beyond the ballot box"
+author: "Tom Hanna"
+date: August 3, 2026
+institute: "Houston City COllege"
+format: 
+        docx:
+                toc: true
+                number-sections: true
+        revealjs:
+                self-contained: true
+                slide-number: true
+                incremental: true
+                transition: convex
+                fontsize: 36px
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Summer 2026 <img src='../assets/logo.jpg' alt='Logo' style='height:20px;'>  Instructor: Tom Hanna "
+        typst:
+                toc: true
+                number-sections: true
+---
+
+
+# Agenda and Reminders
+
+## Agenda
+
+- Today: Direct Action: A Citizen's Toolkit, lecture and discussion
+- Tomorrow: 
+        
+        - Module 4 Quiz
+        - Ethics of Citizenship
+
+## Reminders
+
+- All Module 3 materials due today
+- All Module 4 materials due tomorrow
+- All late work due by August 6, no exceptions
+- Finals Schedule
+
+        - Monday-Tuesday 8 AM class: August 5, 7 AM --- GRRRRRRR!
+
+        - Monday-Tuesday 10:30 AM class: August 6, 9 AM
+
+        - Monday-Tuesday 1 PM class: August 6, 1 PM
+
+
+## Final Exam Rules (be on time!)
+
+- Be on time!
+        
+        - Not the regular class times!
+        - If no one is here within 10 minutes of start time, I will leave
+        - Once the first student finishes, no one else will be allowed to start the exam
+        - The time limit will end after 1 hour 50 minutes to allow the next class to enter
+
+- There will be sufficient time for accommodations for people who arrive on time - it is your responsibility to do so
+
+
+
+# Direct Action: A Citizen's Toolkit
+## Understanding Your Rights in a Democracy
+
+
+---
+
+# Today's Roadmap
+
+* **The First Amendment "Package"**
+    * Why it's a toolkit, not just a list.
+* **A Spectrum of Direct Action**
+    * From conventional to confrontational.
+* **Case Study: The Texas Battleground**
+    * How these rights are being tested right here, right now.
+
+---
+
+
+
+## The First Amendment "Package"
+
+* **🗣️ Freedom of Speech**
+    * The *message*. Your right to criticize, support, or propose an idea.
+* **📰 Freedom of the Press**
+    * The *amplifier*. Distributing Information.
+* **👥 Right of Assembly**
+    * The *group power*. Collective strength.
+* **🏛️ Right to Petition**
+    * The *goal*. Present problems seeking solutions
+
+---
+
+
+
+# A Spectrum of Direct Action (1/5)
+
+## Organized Contact & Lobbying
+
+* **What it is:** Citizens organizing to contact legislators and officials with a specific "ask."
+* **Examples:** Coordinated email campaigns, phone banks, student groups scheduling meetings at the Capitol in Austin.
+* **1A Connection:** This is the most direct, modern form of the **Right to Petition**.
+
+---
+
+
+# A Spectrum of Direct Action (2/5)
+
+## Protest & Marches
+
+* **What it is:** The classic form. A group gathers in a public space to show collective support or opposition.
+* **Examples:** Rallies in a public park, marches to City Hall, picket lines.
+* **1A Connection:** This is a combination of the **Right of Assembly** and **Freedom of Speech**.
+
+
+
+---
+
+# A Spectrum of Direct Action (3/5)
+
+## Citizen Journalism
+
+* **What it is:** Using modern technology to document and disseminate information about public events, acting as a check on power.
+* **Examples:** Live-tweeting a city council meeting, blogging an analysis of a new law, posting a video of a protest online.
+* **1A Connection:** This is a pure exercise of the **Freedom of the Press**.
+
+
+
+
+
+---
+
+# A Spectrum of Direct Action (4/5)
+
+## Filming the Police
+
+* **What it is:** A specific and crucial form of citizen journalism. Recording the on-duty actions of public officials to ensure accountability.
+* **1A Connection:** This is a *vital* exercise of First Amendment rights.
+* Courts have repeatedly affirmed this is a **clearly established right** (combining Speech and Press).
+* You have this right as long as you are in a public place and **not interfering** with an officer's lawful duties.
+
+
+
+---
+
+# A Spectrum of Direct Action (5/5)
+
+## Civil Disobedience
+
+* **What it is:** The non-violent, public, and *intentional* breaking of a law to protest a greater injustice.
+* **Examples:** 1960s lunch counter sit-ins, a group of activists blocking a highway to protest climate policy.
+* **1A Connection:** This is where First Amendment protection **ENDS**.
+
+
+---
+
+## Risk vs. Reality
+
+
+* **Organized Contact:**
+    * Low Risk. High Effort.
+* **Protest:**
+    * Moderate Risk. Can be high-risk if it's shut down or if counter-protestors arrive.
+    
+## Risk vs. Reality (cont.)
+    
+* **Filming Police:**
+    * Legally: Low Risk (it's a protected right).
+    * Situationally: Can be high-risk of confrontation or arrest for "interference."
+* **Civil Disobedience:**
+    * Guaranteed High Risk. Arrest is the point.
+
+
+---
+
+# Case Study: The Texas Battleground
+
+These rights are not just history. They are being fought for and defined right now, in Texas.
+
+* **Texas Constitution:** Article 1, Sections 8 & 27 protect speech and assembly, just like the First Amendment.
+* **The Courts:** Where these rights are defined.
+* **The Legislature:** Where these rights are often challenged.
+
+
+
+---
+
+## Texas Protections: Turner v. Driver (2017)
+
+This is the case that matters for filming the police in Texas.
+
+* **What:** A man in Fort Worth, Philip Turner, was arrested for filming a police station from a public sidewalk.
+* **The Ruling:** The 5th Circuit Court of Appeals (our federal court) ruled in his favor.
+* **The Precedent:** The court explicitly affirmed a **First Amendment right to record the police**, calling it a "basic, vital, and well-established liberty."
+
+
+
+---
+
+## Texas Hot Topic: SB 2972 (Oct 2025)
+
+This battleground is right here on your campus.
+
+* **The Law:** 2025 - SB 2972. One section: **ban all "expressive activities" on college campuses** between 10 p.m. and 8 a.m.
+* **The Action:** Student groups and civil liberties organizations challenged in court
+* **The Ruling (Oct 2025):** Just last month, a federal judge *blocked* that part of the law.
+* **The Quote:** **"The First Amendment does not have a bedtime."** (David Alan Ezra, U.S. District Judge)
+
+
+
+---
+
+# Your Voice is Your Power
+
+* The First Amendment is a **toolkit**, not just a list.
+* "Direct action" is a **spectrum** of
+    engagement.
+* Understanding your rights is the first step to
+    **using them**.
+    
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+
+* Author: Tom Hanna
+
+* Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+* License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+Unless otherwise noted all images are the original work of the author or produced by the author using Perplexity or Gemini. 
+
+
+
+
+

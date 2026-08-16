@@ -1,0 +1,492 @@
+---
+title: "Lectures 3: Basics of Ethics"
+subtitle: "GOVT2305: Federal Government"
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: July 13, 2026
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+        docx:
+                toc: true
+                number-sections: true
+---
+
+# Agenda and Announcements
+
+## Today's Agenda
+
+- Suggested to complete today:
+
+        - Read Module 1 Study Guide Questions
+        - Chapter 1 and 2
+        - Journal on Chapter 2
+
+- Lecture (First half):
+
+        - Basics of Ethics 
+
+- Activity and Discussion (Second half):
+
+        - Personal Ethics
+        - The problem of violence
+        
+## Tomorrow's Agenda
+
+- Suggested to complete tomorrow:
+
+        - Chapter 3 and 4
+        - Journal on Chapter 3 and 4
+        - Think about/begin Study Guide 2 Questions
+        
+- Activity and Discussion (First half):
+
+        - If government is violence what is appropriate for government to do?
+        - If government is violence how much should we limit its use?
+        - If government is violence how can we best enforce those limits?
+        
+- Lecture (Second half):
+
+        - Constitutional Safeguards
+        - Checks and Balances
+        - Separation of Powers
+        - Federalism
+        
+## Due Dates
+
+- Friday, July 17, 11:59 PM - Turn in Module 1 Study Guide
+- Monday, July 20, beginning of class - Module 1 Quiz
+- Monday, July 20, beginning of Class - Module 1 Journals (8 pages handwritten or 2400 words typed total)
+- Monday, July 20, 11:59 PM - Module 1 Connect Assignments
+
+
+
+## Overview for today
+
+- Purpose and expectations
+- Trolley Problem
+- Reciprocity
+- Other concerns
+- Trusteeship 
+
+        - comparison to private trustees or "fiduciaries"
+        - Does legality fall short of good ethics for government officials?
+
+
+## Purpose and Expectations
+
+- Ethical considerations in government are a growing concern among voters and for many of us (hopefully you!) more interesting than committee structures and obscure court cases
+
+- Considering ethics in government gives us a valuable chance to apply critical thinking about personal behavior and limits on government
+
+
+## Purpose and Expectations
+
+
+- We will be exploring the topic together. 
+- I don't have "right" answers, just questions and suggestions. 
+- If I express an opinion, you can disagree! (I have had four semesters of covering the topic with students and hearing their contributions!)
+- There will be a few terms and concepts you should learn for quiz and future knowledge purposes.
+
+
+
+
+## Trolley Problem
+
+![Trolley Problem](trolley.jpg)
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+- commission versus omission - level of responsibility
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+- commission versus omission - level of responsibility
+
+        - ends and means
+
+- Remember the Trolley Problem!
+
+
+
+## Trolley Problem: Solutions
+
+- level of responsibility 
+
+        - 5 to 1, versus 500 to 1, 5 billion to 1. Does it make a difference?
+        - Is there a line or is the answer always the same?
+        - Related: Baby Hitler problem
+        
+- Widely accepted answer when faced with this sort of decision:
+
+        - You should consider the options seriously
+        - Whichever you choose, you question if the decision was right after you make it
+
+- Suggested by a previous student - Would you feel comfortable defending your decision to your future grandchild?
+
+
+## Reciprocity: The Golden Rule(s)
+
+- The Golden Rule in a variety of forms from many world religions and non-religious philosophies:
+
+> Hurt not others in ways that you yourself would find hurtful.
+
+        - Attributed to the Buddha
+
+
+## Other Statements of the negative Golden Rule
+
+> "What is hateful to you, do not do to your neighbor. That is the whole of the Torah. All else is commentary. Go and contemplate it."
+
+        - Hillel the Elder
+        
+
+
+
+## The positive Golden Rule
+
+> "Do unto others as you would have them do unto you"
+
+        - Jesus of Nazareth
+        
+
+## The Golden Rule plus some extra
+
+> "None of you has faith until he loves for his brother what he loves for himself."
+
+        - Hadith attributed to the Prophet Muhammed
+        
+
+## Philosophical (non-religious) Golden Rule{background-color="red" background-image="confucius.jpg" background-size="200px" background-repeat="repeat"}
+
+
+
+> 己所不欲，勿施於人
+
+> Do not do to others what you do not want others to do to you.^[The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.]
+
+        - Confucius 孔子
+        
+
+## Golden Rule beyond humans
+
+> One who is going to take a pointed stick to pinch a baby bird should first try it on himself to feel how it hurts. 
+
+        - Yoruba proverb
+        
+
+## Golden Rule and the Dharma
+
+> "One should never do that to another which one regards as injurious to one's own self. This, in brief, is the rule of Righteousness [Dharma]."^[https://www.mahabharataonline.com/translation/mahabharata_13b078.php] 
+
+        - Mahabharata Anusasana Parva - Translation by KM Ganguly
+        
+        
+## Theories of Ethics
+
+
+::: {.custom-style style="font-size: 80px;"}
+Two basic guidelines are thoughtfulness/deliberativeness and reciprocity.
+:::
+
+::: {.custom-style style="font-size: 80px;"}
+What are some more formal theories of ethics?
+:::
+
+## Theories of Ethics: Duty based or rule based
+
+
+::: {.custom-style style="font-size: 80px;"}
+The right is based solely on *action*. The right action is one that follows a set of rules or duties.
+:::
+
+Also referred to as "deontological ethics" or "deontology"
+
+
+## Theories of Ethics: Consequentialist
+
+::: {.custom-style style="font-size: 80px;"}
+The right is based on *consequence*. Example: Utilitarianism
+:::
+
+## Theories of Ethics: Utilitarianism 
+
+::: {.custom-style style="font-size: 80px;"}
+Utilitarianism: The right is based on *consequence* - achieving the greatest good for the greatest number. 
+:::
+
+
+## Theories of Ethics: Utilitarianism 
+
+::: {.custom-style style="font-size: 80px;"}
+Issue with Utilitarianism:
+:::
+
+- Consequentialist: only considers outcomes, not means
+- Are there any actions so wrong that the consequence can not justify them? (Deontological consideration)
+- Utitilitarian ends may be important, but should the inherent ethical value of the means be part of the equation?
+
+
+
+
+
+## Theories of Ethics: Ethical nihilism
+
+::: {.custom-style style="font-size: 80px;"}
+Ethical nihilism: There is no right or wrong and, therefore, no reason to hold oneself or others to any standards.
+:::
+
+
+## Theories of Ethics: Ethical nihilism 
+
+Issues with nihilism: 
+
+- Do you want to live in that world where no one has any ethical standards in the way they treat *you*?
+- Neither consequences nor means matter, there is no ethical standard to judge anything by.
+
+
+## Theories of Ethics: Ethical Relativism
+
+::: {.custom-style style="font-size: 80px;"}
+Morality is relative to the norms of a culture, and what is considered right and wrong depends solely on the society in which the action occurs.
+:::
+
+
+## Theories of Ethics: Ethical Relativism
+
+
+::: {.custom-style style="font-size: 80px;"}
+Issues with Ethical Relativism: 
+:::
+
+- If our concern is building an ethical society, how is this any more useful than ethical nihilism?
+- Both consequences and actions are judged solely by variable cultural standards
+- There seem to be universal or nearly universal values, even if they vary in details:
+
+        - The Golden Rule in some form
+        - Prohibitions on unjustified killing
+        - Prohibitions on taking the rightly owned property of others
+
+
+
+        
+        
+## Theories of Ethics: Ethical Relativism
+
+- How can we condemn past wrongs of our own society and improve ourselves if we hold that the only ethical standards that matter are those of the culture?
+
+        - If Abolitionists had accepted ethical relativism, we would still have slavery.
+        - If the voting standards of 1910 were accepted as correct under ethical relativism, women would still not be able to vote.
+        - If the standards on punishment of 1500 were judged under ethical relativism, we would still draw and quarter people convicted of a wide range of capital crimes.
+        
+
+## Government as Trustee
+
+::: {.custom-style style="font-size: 80px;"}
+A major concept in ethical standards for government officials is that they are trustees of the people.
+:::
+
+## Private Trustees or Fiduciaries
+
+In the private sector, Lawyers, Physicians, Corporate Directors, Financial Advisors, Real Estate Agents, and many others have a responsibility called *fiduciary* that requires them to set aside their own self-interest and act in the best interest of their clients. 
+
+
+## Private Trustees or Fiduciaries
+
+Fiduciary responsibilities include:
+
+- Duty of Loyalty
+- Duty of Care
+- Duty of Good Faith and Fair Dealing 
+- Duty of Confidentiality
+- Full Disclosure
+- Record Keeping
+- Informing Clients
+
+
+## Duty of Loyalty
+
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must act in the interests of the other party, not their own. 
+:::
+
+## Duty of Care
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must act prudently and diligently. 
+:::
+
+## Duty of Good Faith and Fair Dealing
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must deal fairly with others. 
+:::
+
+
+## Duty of Confidentiality
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must keep information confidential and not disclose it for their own benefit. 
+:::
+
+
+## Duty of Full Disclosure 
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must disclose any conflicts of interest. 
+:::
+
+
+## Record Keeping
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must keep true and complete records of the other party's money and property. 
+:::
+
+
+## Informing Clients
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries should immediately inform clients when problems arise. 
+:::
+
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+
+        - National security and "immediately inform" standard
+        - Confidentiality in some cases of public interest such as "fair and speedy public trials"
+        
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+- In most cases should government officials at least live up to the standards of the capitalist private sector?
+
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+- In most cases should government officials least live up to the standards of the capitalist private sector?
+- If government officials are not expected to live up to the standards of the capitalist free market which only has economic power, how can we trust them with the coercive use of violent force?
+
+
+## Good and bad in government
+
+- Today, we tend to categorize government as "good" the more it involves the participation, especially through voting, of larger parts of the population
+- We consider it "bad" as power becomes concentrated in fewer and fewer hands, with the powerful dictator as the worst type. 
+
+
+## Aristotle's conception of government
+
+- Aristotle divided government into three levels on this basis, too
+- But each level had two forms
+- True forms
+
+        - based on common good
+        - pure
+        
+- Despotic forms
+
+        - based on selfish interest
+        - corrupt
+
+## Aristotle's forms of government
+
+![Aristotle's Typology](govt_types.jpg)
+
+## Aristotle's forms and government ethics
+
+Questions for each ethical category
+
+- How does a behavior contribute to maintaing the True form of the government?
+- How does a behavior contributed to degrading the government, making it more Despotic?
+- Is the action for the Common Good or the Selfish Interest?
+
+## Aristotle's forms: Slight digression
+
+Related point about Constitutional Government:
+
+- Constitutional government has as one of its purposes, using the self-interest of groups to limit ("check" and "balance") each other to maintain the True form and prevent the slide to Despotism.
+
+- Why do we think Democracy is better than Monarchy? Two reasons:
+
+        - Changing meaning of Democracy to mean Polity. 
+        - Democracy represents fundamental political  equality, a society of dignified equals with equality before the law.
+
+
+## Activities / Discussion
+
+
+- What are your personal ethical standards?
+
+        - Should rules or duties matter?
+        - Do consequences matter?
+        - How do you balance the two?
+        
+- What are the ethical standards for the use of violence?
+
+        - Is violence ever justified?
+        - If so, when?
+        - How do you balance the consequences of violence with the means used to achieve them?
+        
+## Government: Delegated Violence
+        
+- Who is responsible for hired violence, the client or the hired muscle?
+
+![John Wick](john_wick.jpg)
+
+
+
+
+## Due Tomorrow
+
+        - Journal -  Chapter 1: Political Thinking and Political Culture: Becoming a Responsible Citizen
+        - Journal - Chapter 2: Constitutional Democracy: Promoting Liberty and Self-Government
+        - Study Guide: Module 1
+        
+        
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
+
+John Wick image from Lionsgate Films
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+

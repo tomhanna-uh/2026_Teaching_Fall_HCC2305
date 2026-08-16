@@ -1,0 +1,114 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Civil Rights
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: April 23, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+
+
+## Agenda
+
+- Today 
+
+        - Discussion of Houston Gunshot Detection System - Discsussion and written questions
+        - Brown v. Board of Education
+        - Letter from Birmingham Jail
+        - Bloody Sunday 1965
+        
+- Next Wednesday
+
+        - Wrap up and Final Review
+
+## Houston Gunshot Detection System
+
+[Controversial gunshot detection system violates Civil Rights Act: report](https://www.chron.com/news/houston-texas/article/doj-investigate-gunshot-detection-18406617.php)
+
+## Houston Gunshot Detection System: Benefits
+
+1. Who do you think benefits most from this technology? (By income)
+
+2. Who do you think benefits most from this technology? (By crime rate)
+
+3. Who do you think benefits most from this technology? (By ethnicity/race)
+
+## Houston Gunshot Detection System: Potential harm
+
+1. Who do you think is most likely to be harmed by this technology, for example by being falsely accuse of a crime?
+
+2. Should we consider being **correctly** arrested for a violent crime a harm?
+
+
+## Houston Gunshot Detection System: Discrimination
+
+Do you think any of these ways to use the technology would not discriminate based on race or ethnicity? (Choose any you think apply)
+
+        - deploying the system equally everywhere
+        - deploying the system in high income neighborhoods
+        - deploying the system in low income neighborhoods
+        - deploying the system in high crime neighborhoods
+        - deploying the system in high crime areas (including commercial and industrial areas)
+        - deploying the system in areas with high reports of gunfire
+
+
+
+## Houston Gunshot Detection System: Opinion
+
+Do you think the technology is either useful now or could potentially be useful with modifications or improvements?
+
+
+
+
+## Brown v. Board of Education
+
+[Brown v Board of Education](https://billofrightsinstitute.org/videos/brown-v-board-of-education-homework-help)
+
+## Letter from Birmingham Jail
+
+[Letter from Birmingham Jail - Video](https://billofrightsinstitute.org/videos/letter-from-birmingham-jail-primary-source-essentials)
+
+
+## Letter from Birmingham Jail
+
+[Letter from Birmingham Jail - Text](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
+
+## Bloody Sunday 1965
+
+[Bloody Sunday 1965](https://billofrightsinstitute.org/videos/calling-for-change-violence-or-nonviolence-images-of-bloody-sunday-1965)
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+

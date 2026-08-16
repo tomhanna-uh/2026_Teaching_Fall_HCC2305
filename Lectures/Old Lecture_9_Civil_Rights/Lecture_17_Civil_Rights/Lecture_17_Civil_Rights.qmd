@@ -1,0 +1,147 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 17: Civil Rights
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: April 21, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+
+
+## Agenda
+
+- Today
+
+        - Announcements
+        - Civil Rights Introduction
+        
+- Wednesday
+
+        - Civil Rights
+        
+        
+## Announcements
+
+- Reminder: Module 4 Quiz Online: April 25-28
+- Final Exam Review: April 30
+- Final Exam: May 5
+
+
+        
+## Civil Rights vs Civil Liberties
+
+
+::: {.custom-style style="font-size: 80px;"}
+What is the difference between Civil Rights and Civil Liberties?
+:::
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny 
+
+They protect individuals from abuse of the massive power of government to commit organized violence
+
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+
+- Civil rights protect individuals from discrimination
+
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+
+- Civil rights protect individuals from discrimination
+
+How are they related?
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+- Civil rights protect individuals from discrimination
+
+How are they related?
+
+Answer: Early civil rights were heavily focused on expanding basic liberties to those that had not been enjoying them. Ending *discrimination* in the application of civil liberties.
+
+
+## Civil Rights: Two approaches
+
+Martin Luther King, Jr.: I have a dream
+
+[I have a dream speech](https://www.marshall.edu/onemarshallu/i-have-a-dream/)
+
+
+## Civil Rights: Two approaches
+
+Malcolm X: By any means necessary
+
+[By any means necessary speech](https://www.youtube.com/watch?v=sNhQ1pm-ooc)
+
+
+## Civil Rights: Two approaches
+
+Malcolm X: Democracy is hypocrisy
+
+[Democracy is hypocrisy speech](https://www.youtube.com/watch?v=qNfAFfu6VD0)
+
+
+## Civil Rights: Two approaches
+
+Malcolm's most famous speech was probably "The Ballot or the Bullet"
+
+[The Ballot or the Bullet](https://www.youtube.com/watch?v=CRNciryImqg)
+
+## Next time
+
+::: {.custom-style style="font-size: 80px;"}
+We will cover major events in the Civil Rights movement and introduce the topic of public opinion in the context of this movement
+:::
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
