@@ -1,29 +1,22 @@
 ---
 title: "Trade-offs and Unintended Consequences"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 27, 2026
-format: 
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                incremental: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 
@@ -106,7 +99,7 @@ Madison wrote in Federalist 10:
 
 ## What if men were angels?
 
-- Madison meant angels in the sense of **goodness*
+- Madison meant angels in the sense of **goodness**
 - So, if government officials were always purely good in their intentions and absolutely incorruptible, would that be enough?
 - Even if we were governed by perfectly good beings, what are some reasons we might still need to limit government?
 - What are some reasons we might need to limit voters (ourselves)?
@@ -124,11 +117,11 @@ Think of your personal life
 
 - Cheap used car no payments - repair bills; new car payments - warranty and comfort
 - Fun and enjoyment - spending money; hard and boring work - making money
-- You have \$3, you can buy a soda or a candy bar (or save the $3)
+- You have $3, you can buy a soda or a candy bar (or save the $3)
 - Spending now vs. investing for the long term
 
 
-## Government rade-offs: Collective Benefits vs Individual Rights
+## Government trade-offs: Collective Benefits vs Individual Rights
 
 - Free riders and taxation
 - Economic trade-offs
@@ -160,14 +153,14 @@ Think of your personal life
 
 ## John Hancock: Smuggler 1737-1793
 
-![John Hancock, first signer of the Declaration of Independence was a smuggler evading British taxes on imported goods.](hancock.jpg)
+![John Hancock, first signer of the Declaration of Independence was a smuggler evading British taxes on imported goods.](../../assets/hancock.jpg)
 
 
 
 
 ## Eric Garner: Smuggler 1970-2014
 
-![Eric Garner: Killed by New York police while selling loose cigarettes to evade NY cigarette taxes](garner.jpg) 
+![Eric Garner: Killed by New York police while selling loose cigarettes to evade NY cigarette taxes](../../assets/garner.jpg) 
 
 Source: [Seven Last Words of the Unarmed](https://sevenlastwords.org/seven-lives/eric-garner/)
 
@@ -250,7 +243,7 @@ Source: [Seven Last Words of the Unarmed](https://sevenlastwords.org/seven-lives
 ## Road to Serfdom
 
 - F.A. Hayek - Nobel Memorial Prize in Economic Sciences (1974)
-- Instead of repealing bad economic regulations because of unintended consequences, we pass more more economic regulations with more unintended consequences
+- Instead of repealing bad economic regulations because of unintended consequences, we pass more economic regulations with more unintended consequences
 
 - WWII, response to totalitarianism in Nazi Germany and Soviet Russia
 
@@ -279,7 +272,7 @@ Source: [Seven Last Words of the Unarmed](https://sevenlastwords.org/seven-lives
 
 ## Incarceration Rates
 
-![Incarceration Rates](incarceration.jpg)
+![Incarceration Rates](../../assets/incarceration.jpg)
 
 
 
@@ -297,7 +290,7 @@ Source: [Seven Last Words of the Unarmed](https://sevenlastwords.org/seven-lives
 
 ## Judging Public Policy Trade-offs: Economic and Social Trade-offs
 
-![Inequality vs. income growth](inequality.jpg) 
+![Inequality vs. income growth](../../assets/inequality.jpg) 
 
 
 
@@ -315,7 +308,7 @@ Source: [What’s So Bad about Increasing Inequality in Canada?](https://irpp.or
 
 ## Judging Public Policy Trade-offs: Economic and Social Trade-offs
 
-![Laffer Curve: Tax Revenue vs Tax Rate](laffer.jpg)
+![Laffer Curve: Tax Revenue vs Tax Rate](../../assets/laffer.jpg)
 
 
 
@@ -325,7 +318,7 @@ Source: [Cato Institute](https://www.cato.org/blog/question-week-whats-right-poi
 
 ## Judging Public Policy Trade-offs: Economic and Social Trade-offs
 
-![Laffer Curve: Tax Revenue vs Tax Rate](laffer.jpg)
+![Laffer Curve: Tax Revenue vs Tax Rate](../../assets/laffer.jpg)
 
         - Does the Laffer Curve mean lowering taxes always increases revenue? 
         - Does the Laffer Curve tell us anything about economic growth?
@@ -356,7 +349,7 @@ Source: [Cato Institute](https://www.cato.org/blog/question-week-whats-right-poi
 
 ## Recap
 
-- Government is a dangerous solutiona and not the only solution
+- Government is a dangerous solution and not the only solution
 - Where government is the solution, trade-offs should be considered carefully including:
 
         - policy benefits versus individual freedoms and human costs
@@ -381,8 +374,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
-
-
-
-
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
