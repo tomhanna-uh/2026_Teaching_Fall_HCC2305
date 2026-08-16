@@ -1,28 +1,21 @@
 ---
-title: "Lectures 4: Constitutional Safeguards"
+title: "Lecture 4: Constitutional Safeguards"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 14, 2026
-format: 
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 # Agenda and Announcements
@@ -73,7 +66,7 @@ format:
  
         - These entries are half size, one page handwritten or 300 words typed each. You can write slightly less for each and total 6 pages or 1800 words.
         
-        - Chapter 6: Chapter 6: Public Opinion and Political Socialization: Shaping the People’s Voice
+        - Chapter 6: Public Opinion and Political Socialization: Shaping the People’s Voice
         - Chapter 7: Political Participation: Activating the Popular Will
         - Chapter 8: Political Parties, Candidates, and Campaigns: Defining the Voter’s Choice
         - Chapter 9: Interest Groups: Organizing for Influence
@@ -98,7 +91,7 @@ format:
 - Basic problem: Government is organized coercive violence seen as legitimate
 
         - Great power to do good consensually where we are largely unified
-        - Great power to do bad if resort to corecive violence is necessary because there is not wide agreement
+        - Great power to do bad if resort to coercive violence is necessary because there is not wide agreement
         
 ## Discussion
 
@@ -121,7 +114,7 @@ format:
 ## How did the Constitutional design limit abuse of power
 
 - Separation of Powers within the federal government
-- Checks and balances between individuals groups in the federal government
+- Checks and balances between individuals and groups in the federal government
 - Federalism: separation of powers between levels of government - state/federal
 - The addition of the Bill of Rights (First 10 Amendments)
 
@@ -129,14 +122,14 @@ format:
 
 ## Separation of Powers
 
-![Source: Bill of Rights Institute](./separation_of_powers.jpg)
+![Source: Bill of Rights Institute](../../assets/separation_of_powers.jpg)
 
 
 
 ## Separation of Powers
 
 
-> The Constitution was devised with an ingenious and  intricate built-in system of checks and balances to guard  the people’s liberty against combinations of government  power.
+> The Constitution was devised with an ingenious and intricate built-in system of checks and balances to guard the people’s liberty against combinations of government power.
 
 [National Center for Constitutional Studies: https://nccs.net/](https://nccs.net/)
 
@@ -145,7 +138,7 @@ format:
 
 
 
-> The Constitution was devised with an ingenious and  intricate built-in system of checks and balances to guard  the people’s liberty against combinations of government  power.
+> The Constitution was devised with an ingenious and intricate built-in system of checks and balances to guard the people’s liberty against combinations of government power.
 
 [National Center for Constitutional Studies: https://nccs.net/](https://nccs.net/)
 
@@ -156,40 +149,40 @@ It has gotten much better through Amendment!
 
 ## Splitting up power to prevent abuse
 
-- *Separate power* among competing groups with different  agendas 
+- *Separate power* among competing groups with different agendas 
 
 
 
 ## Splitting up power to prevent abuse
 
-- *Separate power* among competing groups with different  agendas
+- *Separate power* among competing groups with different agendas
 - The power of one group *balances* the power of competing groups
 
 
 
 ## Splitting up power to prevent abuse
 
-- *Separate power* among competing groups with different  agendas
+- *Separate power* among competing groups with different agendas
 - The power of one group *balances* the power of competing groups
 - The competing interests force the groups to *check* each other's power
 
 
 ## Checks and Balances
 
-![Source: https://lsintspl3.wgbh.org/en-us/lesson/midlit10-soc-splgovt/1](./checks_arrows.jpg)
+![Source: https://lsintspl3.wgbh.org/en-us/lesson/midlit10-soc-splgovt/1](../../assets/checks_arrows.jpg)
 
 
 ## Splitting up power to prevent abuse
 
-- *Separate power* among competing groups with different  interests
+- *Separate power* among competing groups with different interests
 - The power of one group *balances* the power of competing groups
-- The competing interests force the groups to *check*  each other's power
+- The competing interests force the groups to *check* each other's power
 - No one group or individual has sufficient power to dominate the others and act alone
 
 
 ## Splitting up power to prevent abuse
 
-- *Separate power* among competing groups with different  interests
+- *Separate power* among competing groups with different interests
 - The power of one group *balances* the power of competing groups
 - The competing interests force the groups to *check* each other's power
 - No one group or individual has sufficient power to dominate the others and act alone
@@ -201,7 +194,7 @@ This is **Separation of Powers** and **Checks and Balances**
 
 ## Three Branches of Government: Basic Powers
 
-![Source: Have Fun with History](./3_branches_powers.jpg)
+![Source: Have Fun with History](../../assets/3_branches_powers.jpg)
 
 
 ## Three Branches of Government: Basic Powers
@@ -231,7 +224,7 @@ Congress: Makes laws
 
 - Impeach Presidents and Justices of Supreme Court  
 - Override Presidential vetoes by 2/3 majority of both houses  
-- Restrict extent of the Supreme Courts jurisdiction
+- Restrict extent of the Supreme Court’s jurisdiction
 
 
 
@@ -282,7 +275,7 @@ Answer: A. Legislative - Congress has the power to impeach the President and Jus
 
 Courts: Interpret and apply the laws
 
-- No explicit powers to check the other branches listed in the COnstitution
+- No explicit powers to check the other branches listed in the Constitution
 
 
 
@@ -290,7 +283,7 @@ Courts: Interpret and apply the laws
 
 Courts: Interpret and apply the laws
 
-- No explicit powers to check the other branches listed in the COnstitution
+- No explicit powers to check the other branches listed in the Constitution
 - Major implied power: Judicial Review
 
 
@@ -307,7 +300,7 @@ Courts: Interpret and apply the laws
 
 > This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding
 
-United States Constituion, Article VI, Clause 2
+United States Constitution, Article VI, Clause 2
 
 
 
@@ -325,8 +318,7 @@ Courts: Interpret and apply the laws
 
 - The Constitution is the ”supreme law of the land”  
 - Interpret and apply the laws including the Constitution
-- Implied: The power to review laws passed by Congress to
-enforce the Constitution
+- Implied: The power to review laws passed by Congress to enforce the Constitution
 
 
 ## Judicial Branch: Article III
@@ -335,8 +327,7 @@ Courts: Interpret and apply the laws
 
 - The Constitution is the ”supreme law of the land”  
 - Interpret and apply the laws including the Constitution
-- Implied: The power to review laws passed by Congress to
-enforce the Constitution
+- Implied: The power to review laws passed by Congress to enforce the Constitution
 - Implied: The power to review the acts of Presidents
 
 
@@ -413,7 +404,7 @@ States - plural, not "A Free and Independent State" singular
 
 ## Question 3
 
-- The states claimed the status of 13 free and independent sovereign states in the Declaration of Independence states. True or False?
+- The states claimed the status of 13 free and independent sovereign states in the Declaration of Independence. True or False?
 
     - A. True
     - B. False
@@ -469,7 +460,7 @@ Answer: True
 
 ## Federalism: National and State Power
 
-![Source: https://mlpp.pressbooks.pub/pol111mhs/chapter/3-1-federalism-as-a-structure-for-power/](powers.jpg)
+![Source: https://mlpp.pressbooks.pub/pol111mhs/chapter/3-1-federalism-as-a-structure-for-power/](../../assets/powers.jpg)
 
         
         
@@ -569,12 +560,12 @@ Answer:     - C. Regulating commerce within the state (intrastate)
 - Constitution gave explicit powers to the federal government
 
 
-![Source: https://www.youtube.com/@CareyLaManna](enumerated.jpg)
+![Source: https://www.youtube.com/@CareyLaManna](../../assets/enumerated.jpg)
 
 
 ## Bill of Rights
 
-> The powers not delegated to the United States by the  Constitution, nor prohibited by it to the States, are reserved to  the States respectively, or to the people.
+> The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 
 - 10th Amendment to the United States Constitution
 
@@ -608,7 +599,7 @@ Answer: B. The Senate
         
 - Who is responsible for hired violence, the client or the hired muscle?
 
-![John Wick](john_wick.jpg)
+![John Wick](../../assets/john_wick.jpg)
 
 ## Government: Delegated Violence
 
@@ -651,5 +642,4 @@ Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
-
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
