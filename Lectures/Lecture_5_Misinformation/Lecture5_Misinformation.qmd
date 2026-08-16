@@ -1,28 +1,21 @@
 ---
 title: "Misinformation"
 subtitle: "GOVT2305: Federal Government"
-author:
-  - name: Tom Hanna
-    id: th
-    orcid: 0000-0002-8054-0335
-    email: tom.hanna@hccs.edu
-    url: tomhanna.me
-    affiliation: 
-      - name: Houston Community College
-        city: Houston
-        state: TX
-        url: uh.edu/class/political-science/
-date: July 20, 2026
-format: 
-        docx:
-                toc: true
-                number-sections: true
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2026, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 ## Agenda
@@ -30,7 +23,7 @@ format:
 - Today
         
         - Lecture: Misinformation
-        - Discussion:  Disinformation and Civil Discourse
+        - Discussion: Disinformation and Civil Discourse
 
     
 - Tuesday
@@ -64,7 +57,7 @@ format:
         - These are written assignments based on the textbook chapters
         - There are 4 options for how to complete
         - Options means you pick one of the four
-        - Each journal topic is 600 words or two handwritten pags
+        - Each journal topic is 600 words or two handwritten pages
         - Full instructions are in Canvas
         
 3. Study Guides
@@ -102,7 +95,7 @@ format:
 ## Misinformation, Disinformation, and Information Consumers
 
 ::: {.custom-style style="font-size: 80px;"}
-Who are informatinn consumers?
+Who are information consumers?
 
 Who needs useful, correct information?
 :::
@@ -197,7 +190,7 @@ Attributed to:
 
 ## 55% of Budget for Defense
 
-![55percent_defense meme](55percent_defense.jpg)
+![55percent_defense meme](../../assets/55percent_defense.jpg)
 
 ## 55% of Budget for Defense
 
@@ -224,7 +217,7 @@ Attributed to:
 
 ## Unusual Definitions/Lack of Context
 
-![Tax Dollars Meme](tax_dollars_meme.jpg)
+![Tax Dollars Meme](../../assets/tax_dollars_meme.jpg)
 
 
 ## Unusual Definitions/Lack of Context
@@ -287,8 +280,7 @@ Suppose you believe the United States should spend less on defense and more on t
 ## Why is this a problem?
 
 ::: {.custom-style style="font-size: 60px;"}
-Suppose you believe the United States should provide college for free like Germany, France, Finland, Sweden, or Norway, what is wrong with these memes portrayal of
-education spending? Spending is the problem, right?
+Suppose you believe the United States should provide college for free like Germany, France, Finland, Sweden, or Norway, what is wrong with these memes portrayal of education spending? Spending is the problem, right?
 :::
 
 
@@ -337,23 +329,6 @@ The two examples are obvious, easily refuted, egregious examples from the left. 
 :::
 
 
-<!-- ## Healthcare, Climate Change: Important Issues! -->
-
-
-
-<!-- “We have a planetary crisis in terms of climate change. Our health care system is broken and dysfunctional. Our educational system is teetering. Our housing stock is totally inadequate. And these are just some of the crises facing our country,” [Senator Bernie Sanders] said. -->
-
-<!-- - **Mostly true. A little exaggeration, but deserves discussion!** -->
-
-<!-- - **How do you want to argue for these issues effectively?** -->
-
-<!-- - **If you disagree, how do you want to respond?** -->
-
-<!-- -https://thehill.com/homenews/senate/4124631-these-11-senators-voted-against-the-must-pass-defense-spending-bill/ -->
-
-
-
-
 ## Extra Credit Quiz Answers
 
 The Extra Credit Quiz Answers are based on actual federal budget data from the US Department of the Treasury from **2021 fiscal year**:
@@ -366,7 +341,7 @@ Goals: Understand the problems. Understand the solutions. Argue more effectively
 
 ## Healthcare vs Defense Spending               
 
-![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+![defense healthcare coronavirus meme](../../assets/defense_healthcare_coronavirus_meme.jpg)
 
 
 
@@ -395,7 +370,7 @@ d. veteran's benefits - 4% of budget
 
 Honest meme: Healthcare should be twice as big as defense!
 
-![defense healthcare coronavirus meme](defense_healthcare_coronavirus_meme.jpg)
+![defense healthcare coronavirus meme](../../assets/defense_healthcare_coronavirus_meme.jpg)
 
 # Social Spending: Is this true?
 
@@ -441,7 +416,7 @@ Not based on private charitable spending *as a percent of national income* eithe
                 
 ## Election Budget vs Healthcare Spending
 
-![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+![election_healthcare_budget_meme](../../assets/election_healthcare_budget_meme.jpg)
 
 ## Question 3
 
@@ -469,11 +444,11 @@ TRUE MEME: We already spend $1,398 billion on healthcare. How much difference wo
 
 RESPONSE MEME: If free healthcare only cost $6.06 per person, why does it even need to be free? I'll pay for mine and 100 other people and still save money!
 
-![election_healthcare_budget_meme](election_healthcare_budget_meme.jpg)
+![election_healthcare_budget_meme](../../assets/election_healthcare_budget_meme.jpg)
 
 ## Biden Cutting Social Security
 
-![Biden Cut Social Security Meme](biden_cut_social.jpg)
+![Biden Cut Social Security Meme](../../assets/biden_cut_social.jpg)
 
 Disclaimer: I have no idea if these are true. It's just related.
 
@@ -502,7 +477,7 @@ Correct Answer: b - Social Security
                 
 ## Trump Cutting Social Security
 
-![Biden say Trump will cut social security meme](biden_trump_social.jpg)
+![Biden say Trump will cut social security meme](../../assets/biden_trump_social.jpg)
 
 Disclaimer: No idea if this is true either, it's just funny given the Biden meme!
 
@@ -522,7 +497,7 @@ Which of these gets the largest share of federal spending? Consider these catego
 Correct Answer: C - Senior citizens benefits at 33%
 d. Welfare for non-seniors is close at 32%
 
-                a. Courts and police of all types - less than 4$
+                a. Courts and police of all types - less than 4%
                 b. Defense related = national defense plus veteran's benefits and services - 17%
                 c. Senior citizens benefits = Social Security and Medicare - 33%
                 d. Welfare for non-seniors - 32% 
@@ -546,4 +521,4 @@ Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial website
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
