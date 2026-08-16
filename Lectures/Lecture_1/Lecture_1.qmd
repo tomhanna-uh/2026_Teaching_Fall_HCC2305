@@ -2,15 +2,21 @@
 title: |
     | GOVT2305: Federal Government
     | Course Introduction
-author: "Instructor: Tom Hanna, Summer 2025"
-date: July 7, 2025
-format: 
-        revealjs:
-                self-contained: true
-                transition: convex
-                theme: [default,../assets/custom.css]
-                logo: ../assets/logo.jpg
-                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>" 
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
 ---
 
 # First Week's Agenda
@@ -35,7 +41,7 @@ This Week (Module 0 - avoid non-attendance drop)
 
         - First journal assignment due tomorrow at the start of class (See Module 0 in Canvas)
         - REQUIRED Syllabus Quiz Due Thursday 11:59 PM
-        - REQUIRED Extre Credit Quiz Due Thursday 11:59 PM
+        - REQUIRED Extra Credit Quiz Due Thursday 11:59 PM
         
 Module 1 - Quiz Monday July 20
 
@@ -124,7 +130,7 @@ Module 1 - Quiz Monday July 20
         - Respect other people, starting with your classmates and myself
         - Do the work
         - Do your best
-        - Take responsbility for the work you did or not do
+        - Take responsibility for the work you did or not do
         - Take some time to seriously consider the implications of the material for your own life and the lives of people you care about
         - Come to class prepared
         
@@ -181,7 +187,7 @@ Module 1 - Quiz Monday July 20
 - If class is cancelled, I will post this in Canvas Announcements and send to your official college email
 
 
-<a href="https://myeagle.hccs.edu">My Eagle <img src="../assets/MyEagleLogo.png" alt="MyEagle" style="width: 200px; border: 10px solid black;"/></a>
+<a href="https://myeagle.hccs.edu">My Eagle <img src="../../assets/MyEagleLogo.png" alt="MyEagle" style="width: 200px; border: 10px solid black;"/></a>
 
 
 
@@ -531,7 +537,7 @@ I am not responsible for:
         
 ## Use a good notetaking system
         
-- Use a good notetaking system such as [Cornell Notes](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/C)
+- Use a good notetaking system such as [Cornell Notes](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)
 
 - Make a study guide: Making a study guide yourself (using a system like Cornell Notes) is much more effective than staring at a study guide prepared for you
         
@@ -554,4 +560,4 @@ I am not responsible for:
 
 - License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
