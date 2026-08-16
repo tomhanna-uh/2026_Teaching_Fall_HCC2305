@@ -87,23 +87,46 @@ button:hover, .btn:hover {
 footer {
     background-color: $hcc-black;
     color: $hcc-gold;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
-
+/*-- scss:rules --*/
 
 /*-- scss:rules --*/
 
-.reveal .slide-number {
-  color: $link-color;
+// Set the overall background color for the slides
+.reveal {
+  background-color: $hcc-gold;
 }
 
+// Slide content background
+.reveal .slides {
+  background-color: $hcc-gold;
+}
+
+// Slide number color
+.reveal .slide-number {
+  color: $hcc-black;
+}
+
+// Footer styling
 .reveal .footer {
   font-size: 0.35em !important;
   text-align: left !important;
+  color: $hcc-black;
+  background-color: $hcc-gold;
+
+  // Footer logo styling
+  img {
+    border: 2px solid $hcc-black; /* Adding a black border */
+    padding: 2px; /* Optional: Adds some space between the image and the border */
+    height: 50px; /* Adjust the height if needed */
+    width: auto; /* Maintain aspect ratio */
+  }
 }
 
+// Fragment fade-out effect
 .reveal .slides section .fragment.semi-fade-out {
 	opacity: 1;
 	visibility: inherit;
@@ -111,26 +134,29 @@ footer {
 	&.visible {
 		opacity: 0.25;
 		visibility: inherit;
+		background-color: $hcc-gold;
 	}
 }
 
+// Section headers
 .sectionhead {
   font-size: 1em;
   text-align: center;
-  color: $presentation-heading-color;
+  color: $hcc-black;
   font-family: $presentation-heading-font;
-  background-color: $body-bg;
+  background-color: $hcc-gold;
   margin: 1px;
   padding: 2px 2px 2px 2px;
   width: 120px;
-  border-left: 10px solid;
+  border-left: 10px solid $hcc-black;
 }
 
+// Custom black box
 .blackbox {
-  color: #000000;
-  background-color: transparent;
+  color: $hcc-gold;
+  background-color: $hcc-black;
   margin: 1px;
   padding: 5px 2px 5px 2px;
   height: 205px;
-  border: 2px solid;
+  border: 2px solid $hcc-gold;
 }

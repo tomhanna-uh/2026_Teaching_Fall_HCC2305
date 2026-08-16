@@ -4,15 +4,15 @@ subtitle: "GOVT2305: Federal Government"
 author: "Instructor: Tom Hanna, Spring 2026"
 date: July 7, 2026
 format: 
-        docx:
-                toc: true
-                number-sections: true
         revealjs:
                 self-contained: true
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
                 footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>"
+        docx:
+                toc: true
+                number-sections: true
         pdf: 
                 toc: true
                 toc-depth: 2
