@@ -18,50 +18,6 @@ format:
     toc: true
 ---
 
-# Agenda and Announcements
-
-## Agenda
-
-- Today
-
-        - What is Government? What is politics?
-        - Discussion: Experiences with Government
-        - Questions
-        
-        
-- Next class (Monday):
-
-        - Basic ethics
-        - Discussion of personal ethics
-        
-- Tuesday:
-
-        - Constitutional Safeguards
-        - Ethics and limits on government discussion (why do we need Constitutional safeguards? What should be prevented?)
-        
-
-## Assignments Upcoming
-
-
-- Journals for Next Monday (suggested schedule):
-
-        - Chapter 1: Political Thinking and Political Culture: Becoming a Responsible Citizen
-        - Chapter 2: Constitutional Democracy: Promoting Liberty and Self-Government
-        
-- Journals for Next Tuesday (suggested):
-        
-        - Chapter 3: Federalism: Forging a Nation
-        - Chapter 4: Civil Liberties: Protecting Individual Rights
-        
-- Module 1 Journals deadline July 20
-- Study Guide Module 1
-
-        - Due July 17
-        - Quiz July 20 beginning of class
-        
-        
-
-  
 # Introduction to Government
 
 ## Introduction to Government
@@ -365,6 +321,19 @@ Making collective decisions in:
 
 # Questions
 
+
+## Next Lecture & Reminders
+
+- **Next class (August 24):** Basic Ethics
+  - Discussion of personal ethics
+
+- **Following class (August 26):** Begin Constitutional Safeguards
+
+### Upcoming Due Dates (from Syllabus)
+
+- Module 0 substantially complete by **August 31** (avoid drop)
+- Module 1 Study Guide and Connect due **September 18**
+- Module 1 Quiz – In Class **September 21**
 
 ## Authorship and License
 
