@@ -2,8 +2,11 @@
 title: "Lecture 2: What is government? What is politics?"
 subtitle: "GOVT2305: Federal Government"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: August 19 2026
 format:
+  docx:
+    toc: true
+    number-sections: true
   revealjs:
     self-contained: true
     transition: convex
@@ -11,12 +14,17 @@ format:
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
   pptx: {}
-  docx:
-    toc: true
-    number-sections: true
   html:
     toc: true
 ---
+
+## Today
+
+        - What is Government? What is politics?
+        - Discussion: Experiences with Government
+        - Questions
+        
+
 
 # Introduction to Government
 
@@ -325,15 +333,26 @@ Making collective decisions in:
 ## Next Lecture & Reminders
 
 - **Next class (August 24):** Basic Ethics
-  - Discussion of personal ethics
+
+- Be prepared to discuss personal ethics
+
+        - What are ethically appropriate uses of physical force (violence)? 
+        - How do you or should you make ethical decisions?
+        - If you have to make a decision affecting the lives or property of others, how do you determing right from wrong?
+        - We are not interested in the legal answers, but in the personal ethical answers if the law is not present
+        
 
 - **Following class (August 26):** Begin Constitutional Safeguards
 
-### Upcoming Due Dates (from Syllabus)
 
-- Module 0 substantially complete by **August 31** (avoid drop)
+
+## Upcoming Due Dates (from Syllabus)
+
+- Module 0 substantially complete by **August 30** (avoid drop)
 - Module 1 Study Guide and Connect due **September 18**
 - Module 1 Quiz – In Class **September 21**
+
+
 
 ## Authorship and License
 
