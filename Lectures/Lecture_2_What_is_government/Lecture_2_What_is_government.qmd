@@ -4,9 +4,6 @@ subtitle: "GOVT2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: August 19 2026
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     transition: convex
@@ -14,354 +11,286 @@ format:
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
   pptx: {}
+  docx:
+    toc: true
+    number-sections: true
   html:
     toc: true
 ---
 
 ## Today
 
-        - What is Government? What is politics?
-        - Discussion: Experiences with Government
-        - Questions
-        
+- What is Government? What is politics?
+- Discussion: Experiences with Government
+- Questions
 
+# Why This Matters
 
-# Introduction to Government
+## Why This Matters
 
-## Introduction to Government
-
-::: {.custom-style style="font-size: 80px;"}
-To really understand government and politics we first need to know what those things are. 
+::: {.custom-style style="font-size: 65px;"}
+By the end of today you will be able to explain  
+why government is the only organization  
+that can legally force you to do something  
+against your will.
 :::
 
-## Introduction Government: Questions to consider
+## The Core Question
 
-:::{.custom-style style="font-size: 80px;"}
-What is government or "The State"?
+::: {.custom-style style="font-size: 70px;"}
+What makes government different  
+from every other group of people  
+who try to get things done?
 :::
 
-## A word on words
+## Before You Walked Onto Campus
 
-- Government can mean multiple things
-
-        - The specific group of people in charge of...
-        - The enduring institution or organization we call government
-
-- State has at least three meanings
-
-        - International: State = independent country
-        - United States: State = one of the 50 states
-        - Political Science: State = government
-        
-- Politics
-
-        - The process of making collective decisions in the context of the state or government
-
-
-
-## What is government?
-
-::: {.custom-style style="font-size: 80px;"}
-How can we define government?
+::: {.custom-style style="font-size: 70px;"}
+Before stepping on the campus today,  
+what was the last time that politics  
+made a difference in your life?
 :::
 
-- What government does?
+# A Word on Words
 
-## What is government?
+## Government
 
-::: {.custom-style style="font-size: 80px;"}
-How can we define government?
-:::
+- The specific group of people in charge right now
+- The enduring institution or organization we call government
 
-- What government does?
+## State
 
-        - Then what is politics?
+- International: State = independent country
+- United States: State = one of the 50 states
+- Political Science: State = government
 
-- What makes government unique?
+## Politics
 
-        - What does this make politics?
+The process of making collective decisions  
+in the context of the state or government
 
-        
-## What government does?
+# What Do Most People Think Politics Is?
 
-::: {.custom-style style="font-size: 80px;"}
-Before stepping on the campus today, what was the last time that politics made a difference in your life?
-:::
+## What Do Most People Think Politics Is?
 
+- Expensive or involves large amounts of money
+- Distant
+- Involves politicians or campaigns
+- Involves voting or decision making
+- Involves rights
+- National borders
+- Controversial
 
-## What is politics? 
-
-- **Expensive or involves large amounts of money**
-- **Distant**
-- **Involves politicians or campaigns**
-- **involves voting or decision making**
-- **Involves rights**
-- **National borders**
-- **Controversial**
-
-
-
-
-## What is politics: State and local (mostly)
+## What Is Politics: State and Local
 
 ![Houston Public Works](houston-public.png){width="49%"}
 
-## What is politics: Federal, state and local
+## What Is Politics: Federal, State and Local
 
-![Metro rail](../../assets/metrorail.jpg){width="49%"} 
+![Metro rail](../../assets/metrorail.jpg){width="49%"}
 
-## What is politics: Federal, state and local
+## What Is Politics: Federal, State and Local
 
 ![HCC Central Campus](../../assets/hcc_central.jpg){width="49%"}
 
+## What Politics Actually Is
 
-## What is politics? 
+- Not distant
+- Immediate, right here
+- Touches everything
+- Direct impacts are constant
+- Involves all of us
+- It can be expensive, but it is not always about money
 
-- **Not distant** 
-- **immediate, right here**
-- **touches everything**
-- **direct impacts are constant**
-- **involves all of us**
-- **It can be expensive, but it's not always about money**
+# Politics Is Powerful
 
-## Politics is powerful
+## Politics Is Powerful
 
-- Immense power to achieve good ends 
+- Immense power to achieve good ends
 
+## Politics Is Powerful
 
-## Politics is powerful
-
-- Immense power to achieve good ends 
+- Immense power to achieve good ends
 - Immense power to do incredible harm
 
-## Politics is powerful
-
-- Immense power to achieve good ends 
-- Immense power to do incredible harm
-
-
-
-## Politics is powerful
+## Politics Is Powerful
 
 ::: {.custom-style style="font-size: 3em;"}
-Why does politics have such power to cause harm?
+Why does politics have  
+such power to cause harm?
 :::
 
+## Politics Is Powerful
 
-## What does government do?
+![George Washington](../../assets/washington_quote.jpg){width="55%"}
 
-::: {.custom-style style="font-size: 80px;"}
-These are all examples of *collective action*, organized action by a group of people to achieve a common goal.
+## Politics Is Powerful
+
+![Frederick Douglass](../../assets/power_fredrick_douglass.jpg){width="55%"}
+
+## Power
+
+::: {.custom-style style="font-size: 90px;"}
+Power
 :::
 
+# Collective Action
 
-## What makes government different?
+## What Does Government Do?
 
-
-::: {.custom-style style="font-size: 80px;"}
-What makes government or The State different from other organizations? Is collective action unique to government?
+::: {.custom-style style="font-size: 70px;"}
+These are all examples of *collective action* —  
+organized action by a group of people  
+to achieve a common goal.
 :::
 
+## What Makes Government Different?
 
-## Other organizations - Group 1
+::: {.custom-style style="font-size: 65px;"}
+What makes government or The State  
+different from other organizations?  
+Is collective action unique to government?
+:::
+
+# Other Organizations
+
+## Other Organizations — Group 1
 
 - Family
 
-        - What does it have in common?
-        - What is different?
-
-
-## Other organizations 
+## Other Organizations
 
 - Family
 - Church
 
-        - What does it (government) have in common?
-        - What is different?
-
-
-## Other organizations 
+## Other Organizations
 
 - Family
 - Church
 - Community organizations (voluntary)
 
-        - What does it have in common?
-        - What is different?
-
-## Other organizations
-
-- Family
-- Church
-- Community organizations (voluntary)
-- Charities
-
-        - What does it have in common?
-        - What is different?
-
-
-
-
-## Other organizations
+## Other Organizations
 
 - Family
 - Church
 - Community organizations (voluntary)
 - Charities
-- Businesses - The Market
 
-        - What does it have in common?
-        - What is different?
-        
+## Other Organizations
 
-        
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses — The Market
 
-## Other organizations - Group 2
-
-- Organized crime
-
-        - What does it have in common?
-        - What is different?
-
-## Other organizations
+## Other Organizations — Group 2
 
 - Organized crime
-- vigilantes
 
-        - What does it have in common?
-        - What is different?
-
-
-## Other organizations
+## Other Organizations
 
 - Organized crime
-- vigilantes
-- terrorists
+- Vigilantes
 
-        - What does it have in common?
-        - What is different?
-        
-## Other organizations   
+## Other Organizations
 
-- For the Group 1 organizations, how can they enforce their rules?
+- Organized crime
+- Vigilantes
+- Terrorists
 
-For the Group 2 organizations, who are they responsible to and how do we view their use of force?
+## Key Questions
 
+- For Group 1 organizations:  
+  How can they enforce their rules?
 
-## What is "the state"?
+- For Group 2 organizations:  
+  Who are they responsible to,  
+  and how do we view their use of force?
 
-**The organized, coercive use of violent force commonly accepted as legitimate** 
+# The State
 
-- organized
-- Coercive use 
-- violent force (armed force)
+## What Is "the State"?
+
+**The organized, coercive use of violent force  
+commonly accepted as legitimate**
+
+- Organized
+- Coercive use
+- Violent force (armed force)
 - Legitimacy
-        
 
-## Introduction Government: Questions to consider
+## What Is Politics?
 
-:::{.custom-style style="font-size: 80px;"}
-What is politics?
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making  
+collective decisions in the context of...
 :::
 
+## What Is Politics?
 
-## What is politics? 
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making  
+collective decisions in the context of  
+the State or government.
+:::
 
+## The Difference
 
-- **Politics is the process of making collective decisions in the context of...**
-
-## What is politics? 
-
-
-- **Politics is the process of making collective decisions in the context of...**
-
-The State or government.
-
-
-## The difference between politics and everything else
-
-These organizations all engage in collective action and collective decision making, but lack one thing the state has: 
+These organizations all engage in collective action,  
+but lack one thing the state has:
 
 - Family
 - Church
 - Community organizations (voluntary)
 - Charities
-- Businesses - The Market
-
-
-
-## The difference between politics and everything else
-
-These organizations all engage in collective action, but lack one thing the state has: 
-
-- Family
-- Church
-- Community organizations (voluntary)
-- Charities
-- Businesses - The Market
+- Businesses — The Market
 
 **Coercive use of violent force**
 
+## Two Spheres
 
-## Studying other organizations
+**Voluntary Sphere**  
+Family, church, market, charities...
 
-Family, church, the market, etc. are all about making collective decisions in: 
+**Coercive Sphere**  
+The State
 
-**The Voluntary Sphere**
+## Politics Is About
 
-## Politics is about
-
-Making collective decisions in:
-
-**The Coercive Sphere**
-
-
-## Politics is powerful
-
-![George Washington](../../assets/washington_quote.jpg){width="50%"}
-
-
-## Politics is powerful
-
-![Frederick Douglass](../../assets/power_fredrick_douglass.jpg){width="50%"}
+Making collective decisions in  
+**the Coercive Sphere**
 
 # Canvas and e-Book Overview
 
 # Questions
 
-
 ## Next Lecture & Reminders
 
-- **Next class (August 24):** Basic Ethics
+**Next class (August 24): Basic Ethics**
 
-- Be prepared to discuss personal ethics
+Come prepared to discuss *your own* answers to these questions.  
+We will start with them. Legal answers are not what we are after.
 
-        - What are ethically appropriate uses of physical force (violence)? 
-        - How do you or should you make ethical decisions?
-        - If you have to make a decision affecting the lives or property of others, how do you determing right from wrong?
-        - We are not interested in the legal answers, but in the personal ethical answers if the law is not present
-        
+- What are ethically appropriate uses of physical force (violence)?
+- How do you (or how should you) make ethical decisions?
+- If you have to make a decision that affects the lives or property of others,  
+  how do you determine right from wrong when the law is silent or absent?
 
-- **Following class (August 26):** Begin Constitutional Safeguards
+**Following class (August 26):** Begin Constitutional Safeguards
 
-
-
-## Upcoming Due Dates (from Syllabus)
+## Upcoming Due Dates
 
 - Module 0 substantially complete by **August 30** (avoid drop)
 - Module 1 Study Guide and Connect due **September 18**
 - Module 1 Quiz – In Class **September 21**
-
-
 
 ## Authorship and License
 
 Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
 
 - Author: Tom Hanna
-
 - Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+- License: This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
 
-- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
-
-<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
