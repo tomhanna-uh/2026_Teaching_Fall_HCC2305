@@ -9,7 +9,7 @@ format:
     self-contained: true
     incremental: true
     transition: convex
-    theme: [default, ../../assets/custom.scss]
+    theme: ../../assets/custom.scss
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
   docx:

@@ -19,13 +19,13 @@ $presentation-heading-color: $hcc-black;
 //    these variables after page load and they normally win.
 // -------------------------------------------------------
 :root {
-  --r-background-color: #{$hcc-gold} !important;
+  --r-background-color: #{#FFC000} !important;
   --r-main-color: #{$hcc-black} !important;
   --r-heading-color: #{$hcc-black} !important;
   --r-link-color: #{$hcc-black} !important;
   --r-link-color-hover: #{lighten($hcc-black, 15%)} !important;
   --r-selection-background-color: #{$hcc-black} !important;
-  --r-selection-color: #{$hcc-gold} !important;
+  --r-selection-color: #{#FFC000} !important;
 }
 
 // -------------------------------------------------------
