@@ -5,7 +5,7 @@ $hcc-black: #000000;
 $hcc-white: #FFFFFF;
 $hcc-gold: #FFC000;
 
-// Base colors (do not change these)
+// Quarto / Reveal.js base variables
 $body-bg: $hcc-gold;
 $body-color: $hcc-black;
 $link-color: $hcc-black;
@@ -13,13 +13,21 @@ $presentation-heading-color: $hcc-black;
 
 /*-- scss:rules --*/
 
-// Overall slide background
-.reveal {
-  background-color: $hcc-gold;
-}
-
-.reveal .slides {
-  background-color: $hcc-gold;
+// -------------------------------------------------------
+// Force gold background on every element Reveal.js uses.
+// !important is required because Reveal.js re-applies
+// styles after the page loads and can override ordinary rules.
+// -------------------------------------------------------
+html,
+body,
+.reveal,
+.reveal .slides,
+.reveal .slides section,
+.reveal .slide-background,
+.reveal .slide-background-content,
+.reveal .backgrounds {
+  background-color: $hcc-gold !important;
+  background: $hcc-gold !important;
 }
 
 // Headings
@@ -52,7 +60,7 @@ $presentation-heading-color: $hcc-black;
   font-size: 0.35em !important;
   text-align: left !important;
   color: $hcc-black;
-  background-color: $hcc-gold;
+  background-color: $hcc-gold !important;
 
   img {
     border: 2px solid $hcc-black;
@@ -70,7 +78,7 @@ $presentation-heading-color: $hcc-black;
   &.visible {
     opacity: 0.25;
     visibility: inherit;
-    background-color: $hcc-gold;
+    background-color: $hcc-gold !important;
   }
 }
 
