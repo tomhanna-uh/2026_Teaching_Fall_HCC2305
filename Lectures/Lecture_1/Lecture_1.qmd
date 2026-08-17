@@ -5,9 +5,6 @@ title: |
 author: "Instructor: Tom Hanna"
 date: August 17 2026
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -15,6 +12,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -40,7 +40,6 @@ format:
 
 This Week (Module 0 - avoid non-participation drop August 30)
 
-        - First journal assignment due tomorrow at the start of class (See Module 0 in Canvas)
         - REQUIRED Syllabus Quiz Due August 30
         - REQUIRED Extra Credit Quiz Due August 30 11:59 PM
         - No extensions - you will be dropped on August 31 if not complete
