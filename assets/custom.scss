@@ -14,9 +14,22 @@ $presentation-heading-color: $hcc-black;
 /*-- scss:rules --*/
 
 // -------------------------------------------------------
-// Force gold background on every element Reveal.js uses.
-// !important is required because Reveal.js re-applies
-// styles after the page loads and can override ordinary rules.
+// 1. Override the CSS custom properties Reveal.js uses.
+//    This is the most important fix — Reveal.js re-applies
+//    these variables after page load and they normally win.
+// -------------------------------------------------------
+:root {
+  --r-background-color: #{$hcc-gold} !important;
+  --r-main-color: #{$hcc-black} !important;
+  --r-heading-color: #{$hcc-black} !important;
+  --r-link-color: #{$hcc-black} !important;
+  --r-link-color-hover: #{lighten($hcc-black, 15%)} !important;
+  --r-selection-background-color: #{$hcc-black} !important;
+  --r-selection-color: #{$hcc-gold} !important;
+}
+
+// -------------------------------------------------------
+// 2. Also force the background on every element Reveal uses.
 // -------------------------------------------------------
 html,
 body,
@@ -37,7 +50,7 @@ body,
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  color: $hcc-black;
+  color: $hcc-black !important;
 }
 
 // Links
