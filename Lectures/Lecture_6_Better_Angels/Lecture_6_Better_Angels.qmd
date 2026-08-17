@@ -1,0 +1,48 @@
+---
+title: "Lecture 6: The Better Angels of Our Nature"
+subtitle: "Positive Reality, Negative Narrative"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# The Better Angels of Our Nature
+
+## Placeholder
+
+This lecture is scheduled for **September 9, 2026**.
+
+Topic: Positive Reality, Negative Narrative (Discussion of negative narrative and positive reality examples).
+
+Content to be developed.
+
+
+## Next Lecture & Reminders
+
+- **Next class (September 14):** Misinformation
+- Discussion: Misinformation and effects on polarization
+
+### Upcoming Due Dates
+
+- Module 1 Study Guide and Connect due **September 18**
+- Module 1 Quiz – In Class **September 21**
+
+## Authorship and License
+
+- Author: Tom Hanna
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+- License: This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>
