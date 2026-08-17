@@ -3,18 +3,19 @@ title: |
     | GOVT2305: Federal Government
     | Course Introduction
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: August 17 2026
 format:
+  docx:
+    toc: true
+    number-sections: true
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
   pptx: {}
-  docx:
-    toc: true
-    number-sections: true
   html:
     toc: true
 ---
@@ -130,11 +131,13 @@ Module 1 - Quiz September 21
 - What is government and what is politics? 
 - Ethics of and in government
 - What are the ethical consequences of the nature of government? Why do we need to limit government in a democracy/why limit majorities?
+- Why do we need to limit government? Why should a democracy be limited?
 - How do we limit government in a democracy? In the US system in particular?
 
 ## Lecture Overview
 
 - What are the dangers of disinformation, misinformation, and statistics?
+- What is the good and bad of factual information presented by the press? By activists? By politicians?
 - How can we be fully informed and why should we?
 - What is the citizen's (your) role in government? What is ethical voting? Is it ethical not to vote? Is it ever unethical to vote?
 
@@ -155,57 +158,24 @@ Module 1 - Quiz September 21
         
         
 ## Come to class prepared
-
-- To receive full credit for the in class work each day (20% of your grade), you must come to class prepared
-- Part of this means at least reviewing the assigned chapter
-- Completing the Journal assignments as schedule will help with this, with doing well on the exams, and with understanding the material
-- If discussion reflects that people are prepared, we will not have to have quizzes and everyone will get full credit
-- If discussion is bad, there will be quizzes or people who are not prepared may lose credit
+- To earn full credit for In Class Work (25% of your grade), you must come to class prepared
+- Part of this means at least reviewing the assigned readings
+- Sometimes this will mean coming in with some written notes as assigned
+- Good discussion - no quizzes, full credit
+- Bad discussion - quizzes to find out who was prepared
         
+ 
         
-## Course Outline/Procedures
-
-- Please visit the Canvas Homepage for the Course
-
 
         
 ## Course Outline/Procedures
 
-- Please read the Canvas Homepage for the Course
-- Please read the Syllabus
-
-        - It is in Canvas! We will look at it now briefly!
-        
-## Course Outline/Procedures
-
-- Please read the Canvas Homepage for the Course
-- Please read the Syllabus
-- Textbook homework, quizzes, and much other information are in the Canvas Modules
-
-        - They are here!
-        
-## Course Outline/Procedures
-
+- Begin Module 0 immediately
 - Please read the Canvas Homepage for the Course
 - Please read the Syllabus
 - Most of your work outside class will be done through the Canvas Modules - this includes accessing the textbook
-- Complete Modules in order or you will be locked out of later assignments
-
-
-        
-## Course Outline/Procedures
-
-- You must pass the Syllabus Quiz with a perfect score to continue with the rest of the course! 
--  You can retake it as many times as necessary
-
-
-## Course Outline/Procedures (Continued)
-
-- Check Canvas Announcements for any updates, further instructions, etc. 
-- If class is cancelled, I will post this in Canvas Announcements and send to your official college email
-
-
-<a href="https://myeagle.hccs.edu">My Eagle <img src="../../assets/MyEagleLogo.png" alt="MyEagle" style="width: 200px; border: 10px solid black;"/></a>
+- Complete numbered Modules (0 through 4) in order or you will be locked out of later assignments
+- Always work through the Modules
 
 
 
@@ -213,38 +183,15 @@ Module 1 - Quiz September 21
         
 
 
-## Syllabus Quiz and Extra Credit Quiz
-
-
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
-
-        - Even if you miss everything, you get 1 point for taking it
-        
-        
-## Syllabus Quiz and Extra Credit Quiz
-
-- No class September 4! Introduction Module Work Day!
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
-
-        - Even if you miss everything, you get 1 point for taking it
-        - You are required to take it.
-        
-## Syllabus Quiz and Extra Credit Quiz
-
-- The Syllabus Quiz is required
-- The Extra Credit Quiz is extra credit AND **it is required**
-
-        - Even if you miss everything, you get 1 point for taking it
-        - You are required to take it
-        - You can only take it once
         
 ## Syllabus Quiz and Extra Credit Quiz
 
 - The Syllabus Quiz is required
 - The Extra Credit Quiz is extra credit AND it is required
-- Introduction Module complete by 11:59 PM, September 4...
+- Introduction Module complete by August 30, 11:59 PM
+- This includes textbook signup
+- No extensions - you will be dropped for non-participation early August 31 if you do not complete it
+
 
 
 ## Course Policies: Basics
@@ -258,37 +205,10 @@ Module 1 - Quiz September 21
 - I may update policies if things are not working
 - **You are responsible** for keeping track of due dates and assignments
 
-## Time Commitment
-
-- HCC is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) 
 
 
-## Time Commitment
 
-- HCC is accredited by SACSCOC
-- Without accreditation an HCC degree is worthless - not good for transfer, not considered a valid degree by employers
 
-## Time Commitment
-
-- HCC is accredited by SACSCOC
-- Without accreditation an HCC degree is worthless 
-- Without accreditation HCC students can not receive federal or state financial aid
-
-## Time Commitment
-
-- HCC is accredited by SACSCOC
-- Without accreditation an HCC degree is worthless 
-- Without accreditation HCC students get no financial aid
-
-## Time Commitment
-
-- HCC is accredited by SACSCOC
-- Without accreditation an HCC degree is worthless 
-- Without accreditation HCC students no financial aid
-
-- - According to SACSCOC for a fully face-to-face class: 
-
-        - 1 credit hour = 1 hour in class + 2 hours out of class
         
 ## Time Commitment
 
@@ -301,7 +221,7 @@ Module 1 - Quiz September 21
         - 1 credit hour = 1 hour in class + 2 hours out of class per week
         - This is a 3 credit hour course
         - 3 credit hour class = 3 hours in class + 6 hours out of class per week for a face-to-face class
-        - This is a minimum, but the institution (UH) may set a higher standard!
+        - 9 hours per week, 135 hours total
         
 https://sacscoc.org/app/uploads/2019/08/Credit-Hours.pdf
 
@@ -310,13 +230,12 @@ https://sacscoc.org/app/uploads/2019/08/Credit-Hours.pdf
 ## Commitment
 
 ::: {.custom-style style="font-size: 75px;"}
-If 80% of the work is outside of class, what does that tell you about who has the major responsibility for your success or failure?
+If 67% of the work is outside of class, what does that tell you about who has the major responsibility for your success or failure?
 :::
+
+
+
         
-## Professionalism
-
-- Professionalism is a graded component of this class. 
-
 
 
 ## Professionalism
@@ -326,16 +245,16 @@ If 80% of the work is outside of class, what does that tell you about who has th
 
 
 
-## Professionalism
+## Professionalism in other words
 
-- In other words:
-
-        - If you don't attend class and pay attention...
-        - If you don't put in two hours a week of real work outside class...
-        - If you don't do the assignments...
-        - If you don't study for the exams...
+- If you don't attend class and pay attention...
+- If you don't put in six hours a week of real work outside class...
+- If you don't do the assignments...
+- If you don't study for the quizzes...
 
 Who is responsible for the consequences?
+
+
 
 
 ## Your responsibilities
@@ -348,12 +267,12 @@ Who is responsible for the consequences?
         - Applying brainpower
         - Working on the material
         - Following through on commitments
+        - Asking for help
         - Taking responsibility for your own work and results!
         
         
 ## My responsibilities
 
-- I am responsible for
 
         - Providing you a structured environment to learn
         - Providing alternate explanations to help you understand the material (lecture, discussion, and question-answer)
@@ -363,14 +282,12 @@ Who is responsible for the consequences?
         - Providing you with resources to succeed
         - Assessing you fairly based on the standards and goals provided
         - Alerting you early if your work is not up to standard, so you can fix the problem
-        - Offering suggestions to help you improve your work
+        - Offering suggestions to help you improve your work (when asked)
         
         
-## My responsibilities
+        
+## NOT my responsibilities
 
-I am not responsible for:
-
-I am not responsible for:
 
         - Forcing you to work
         - Doing your work for you
@@ -383,135 +300,116 @@ I am not responsible for:
         
         
         
-## Course Policies: Communications
+## Course Procedures - Communication
 
-- Face-to-face is the best communication
+- Announcements will appear in class and in Canvas Announcements
+- If class is cancelled, I will post this in Canvas Announcements and send to your official college email
+
+
+<a href="https://myeagle.hccs.edu">My Eagle <img src="../../assets/MyEagleLogo.png" alt="MyEagle" style="width: 200px; border: 10px solid black;"/></a>
+
+- This is the only way we will use email or Canvas Messaging in this class
 
 
 
-## Course Policies: Communications
+## Email and Work-Life Balance
 
-- Face-to-face is the best communication:
+> I honor and respect boundaries around personal time, well-being, family, and care-taking. Should you receive emails from me while you're doing these things, please protect your time and wait to respond until you are working. In the same vein, please note that I check and respond to email **very** unreliably during evenings, weekends, and academic breaks. 
 
-        - Office hours are your main communication to me outside class
+- Our main means of communication will be Face-to-Face during schedule class time or during scheduled office hours.
 
-## Course Policies: Communications
 
-- Face-to-face is the best communication:
+## Email absolutes
 
-        - Office hours are your main communication to me outside class
-        - There will be a question period every class
+- No discussion of grades by email
+- No excuses by email
+- Do not email me to tell me you have missed or will miss class
+- Do not email asking for special treatment, special extra credit, or a grade "round up"
+- Any email not from your official email address will not even receive a courtesy reply
 
-## Course Policies: Communications
 
-- Face-to-face is the best communication:
 
-        - Office hours are your main communication to me outside class
-        - There will be a question period every class
-        - Any important announcements will always be made in class
+## Office Hours
 
-## Course Policies: Communications
+- I will hold office hours on Google Meets
+- For those who would rather meet in person, most of my office hours will be at my physical office at University of Houston, PGH 391
+- I will post links to Google Meets and my Office Hours Schedule on the Course Homepage, along with a map to my office building
 
-- Face-to-face is the best communication:
 
-        - Office hours are your main communication to me outside class
-        - There will be a question period every class
-        - Any important announcements will always be made in class
-        - There may be opportunities for extra credit or even regular credit that are only announced in class.
 
-## Course Policies: Communications
-
-- Face-to-face is the best communication
-- Announcements: Canvas
-
-        - Since class cancellations can't be announced in class, you'll find them here if they happen
-        - These are a good written place for recording important information - reiterating class announcements
-        - That said, you still need to be in class. There may be opportunities for extra credit or even regular credit that happen in class with no advance notice.
-        
         
 ## Course Policies: Communications
 
 - Face-to-face is the best communication
-- Announcements: Canvas
-- Email announcements
-
-        - go to your official @hccs.edu email address
-
-## Course Policies: Communications
-
-- Face-to-face is the best communication
-- Announcements: Canvas
-- Email announcements
-- Emails to me - to ensure your privacy! - must:
-
-        - come from your official @hccs.edu email address
-        - come to my official tom.hanna@hccs.edu email address
-        - I will not even give a courtesy reply if they do not
-        
-## Course Policies: Communications
-
-- Face-to-face is the best communication
-- Announcements: Canvas
-- Email announcements
-- Emails to me - to ensure your privacy!
-- There will be little to no need to email me because...
+- Announcements: In class and recorded in Canvas
+- Class cancellation: Email and Canvas
+- There will is no need to email me because...
 
 
-## Course Policies: Late Work and Makeups
+## Late Work and Makeups
 
 - Late textbook assignments are automatically accepted and one is dropped
 
-        - 10% per day penalty
+        - 5% per day penalty
         - No exceptions, no excuses!!!
         - No need to email!!!
         - No need to apologize or explain!!!
-        - All work must be turned in by August 7
+        - All work must be turned in by December 2
         
         
-## Course Policies: Late Work and Makeups
+        
+## Late Work and Makeups (2)
 
 - Late work is automatically accepted with penalty      
-- Makeups for exams
+- Makeups for quizzes
 
         - The final is your makeup for any missed exams
-        - You will get the percentage score for the final applied to any missed exam
+        - You will get the percentage score for the final applied to any missed quiz
+        - The final is a makeup, not a do-over
         - No excuses, no exceptions
         - This is completely automatic
         - No emails or apologies required
         - Let your grandmothers know their lives are safe from this class!
 
 
-## Course Policies: Late Work and Makeups
+## Late Work and Makeups (3)
 
 - Late work is automatically accepted with penalty      
 - Makeups for exams - the final is the makeup, automatic
 - Makeup for in class work participation exercises, etc.
 
-        - I will drop scores for one days work automatically
-        - Two days is 20% of the course, so even with a medical excuse that is an unacceptable absence level
-        - No makeups, no exceptions for any reason
+
+        - By not missing more than three days, you will be able to receive full points. 
+        - Missing more than three days is not excusable in any case and may technically result in being dropped from the course. 
+        - No makeups, no exceptions for any reason. 
         
         
-## Course Policies: Late Work and Makeups
+## No excuses, no exceptions
 
-- Late textbook homework is automatically accepted *with penalty*
-- Makeups for exams - the final is the makeup, automatic!
-- Makeup for in class work: three dropped, no makeups!
+- **The policy is generous and automatic**
 
-- **This is already a very generous policy - No exceptions**
+- **The policy is very generous policy - No exceptions**
 
-- **Asking for special treatment is asking me to do something unethical and may affect your professionalism grade**
+- **Asking for special treatment is asking me to do something unethical and will affect your professionalism grade**
 
-## Journals and Study Guides
+
+
+
+## Study Guides
 
 - These out of class written assignments will not be accepted late
-- 4 of the Journals and 1 of the Study Guides will be dropped instead
+- You may miss one out of four Study Guides 
+- For the first missed Study Guide, you will receive the average of all other Study Guide scores
+- If you miss two, the zero for the second WILL be part of the average
+
+
+3
 
 
 ## Course Policies: Attendance and Participation
 
 - HCC requires attendance
-- There will be almost daily short written exercises
+- There will be almost daily exercises involving discussion, writing, or a combination
 - These will only be done in class
 - I will drop the three lowest scores including missed classes
 - No other makeups will be allowed
@@ -522,6 +420,11 @@ I am not responsible for:
 
 - Academic integrity is non-negotiable
 - Do your own work
+- Academic integrity includes basic integrity 
+- Bullying, extortion, etc. violate academic integrity, behavior policies, and in some cases the law
+- #1 Rule: Respect other people
+
+
 
 
 
@@ -532,11 +435,11 @@ I am not responsible for:
 ## Conquer the Forgetting Curve
 
 - Study a few minutes a few times a week instead of 6 hours right before the test
-- Start the Inquizitives early (see Syllabus for suggestions) 
+- Start the Connect Assignments early (see Syllabus for suggestions) 
 
         - You have several weeks to do each set of 3 to 6 chapter assignments
         - Finish them ahead of schedule then use them to study by...
-        - Revisiting the Inquizitives several times between finishing them and the exam to review
+        - Revisiting the Connect Assignments several times between finishing them and the exam to review
         
 - Use the Flashcards a few minutes, a few times a week
 
@@ -544,7 +447,7 @@ I am not responsible for:
 
 - Use the lecture slides to organize your notes
 
-        - Do not take pictures of the slides - they are published in Canvas with a PDF download option available
+        - Please do not take pictures of the slides - they are published in Canvas with a PDF download option available
         
 - Try rewriting concepts in your own words
 
@@ -559,10 +462,22 @@ I am not responsible for:
 
 - Make a study guide: Making a study guide yourself (using a system like Cornell Notes) is much more effective than staring at a study guide prepared for you
         
-- Take advantage of the Practice Exams *after you do these other things*
+- Take advantage of the Practice Quizzes *after you do these other things*
 
 
+## Extra Credit
 
+You can get extra credit equal to 10% of each quiz by turning in a Cornell Notes style set of notes on the chapters, assigned readings, and lectures for the full Module. This would be at minimum two pages per chapter, reading, and lecture. Turn these in on paper at the beginning of each Quiz. 
+
+## Next class
+
+- Come prepared to discuss the questions:
+
+        - How has government affected my life recently?
+        - When I think of government, what do I think of?
+        - Why is politics important in my life?
+        
+- Bring any questions over course procedures, the assignments, Canvas, textbook, etc. to ask in person
 
 
 ## Questions
