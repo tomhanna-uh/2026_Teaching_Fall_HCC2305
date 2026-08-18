@@ -178,14 +178,11 @@ Are some actions wrong even if the outcome is good?
 No right or wrong — no standards
 :::
 
-
-
 ## Ethical relativism
 
 ::: {.custom-style style="font-size: 70px;"}
 Right and wrong = only the norms of a culture
 :::
-
 
 ## Ethical relativism — minor issue
 
@@ -193,13 +190,17 @@ Right and wrong = only the norms of a culture
 How do you condemn past wrongs in your own society?
 :::
 
-
 ## Ethical relativism — major issue
 
 ::: {.custom-style style="font-size: 65px;"}
 How do you work to improve your own society?
 :::
 
+## Judging acts vs judging persons
+
+::: {.custom-style style="font-size: 65px;"}
+Judging acts vs judging persons
+:::
 
 # Government as Trustee
 
@@ -260,8 +261,6 @@ Inform Clients
 ::: {.custom-style style="font-size: 55px;"}
 If private fiduciaries face this standard with money and voluntary clients, what standard fits people who command force?
 :::
-
-
 
 # Delegated Violence
 
