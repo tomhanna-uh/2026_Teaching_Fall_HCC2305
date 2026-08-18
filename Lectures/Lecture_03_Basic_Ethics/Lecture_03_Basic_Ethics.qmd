@@ -34,9 +34,9 @@ By the end of today you will be able to state your own standard for when force i
 
 ## Bridge from last time
 
-Government is the organized coercive use of physical force commonly accepted as legitimate.
+- Government is the organized coercive use of physical force commonly accepted as legitimate.
 
-So ethics is not optional. It is the point.
+- So ethics is not optional. It is the point.
 
 ## Purpose
 
@@ -178,17 +178,28 @@ Are some actions wrong even if the outcome is good?
 No right or wrong — no standards
 :::
 
+
+
 ## Ethical relativism
 
 ::: {.custom-style style="font-size: 70px;"}
 Right and wrong = only the norms of a culture
 :::
 
-## Ethical relativism — issue
+
+## Ethical relativism — minor issue
 
 ::: {.custom-style style="font-size: 65px;"}
 How do you condemn past wrongs in your own society?
 :::
+
+
+## Ethical relativism — major issue
+
+::: {.custom-style style="font-size: 65px;"}
+How do you work to improve your own society?
+:::
+
 
 # Government as Trustee
 
@@ -247,8 +258,10 @@ Inform Clients
 ## The force question
 
 ::: {.custom-style style="font-size: 55px;"}
-If private fiduciaries face this standard with money, what standard fits people who command force?
+If private fiduciaries face this standard with money and voluntary clients, what standard fits people who command force?
 :::
+
+
 
 # Delegated Violence
 
