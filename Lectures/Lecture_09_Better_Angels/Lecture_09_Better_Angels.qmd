@@ -1,0 +1,25 @@
+---
+title: "Lecture 09: The Better Angels of Our Nature"
+subtitle: "GOVT2305: Federal Government"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# The Better Angels of Our Nature
+
+## Placeholder
+
+HCC: shorter / post-quiz + Module 2 intro. Content to be developed.

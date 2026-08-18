@@ -1,0 +1,27 @@
+---
+title: "Lecture 02: What is Government?"
+subtitle: "GOVT2305: Federal Government"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# What is Government?
+
+## Status
+
+**Published content currently lives in** `Lectures/Lecture_2_What_is_government/`.
+
+Migrate or replace this stub when ready. Do not delete the existing folder until the published version is fully moved here.

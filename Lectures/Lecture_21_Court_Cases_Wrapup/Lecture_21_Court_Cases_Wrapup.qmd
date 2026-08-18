@@ -1,0 +1,25 @@
+---
+title: "Lecture 21: Major Court Cases Wrap-up"
+subtitle: "GOVT2305: Federal Government"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# Major Court Cases Wrap-up
+
+## Placeholder
+
+HCC dedicated wrap day. Content to be developed.

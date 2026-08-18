@@ -1,0 +1,27 @@
+---
+title: "Lecture 01: Course Intro"
+subtitle: "GOVT2305: Federal Government"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# Course Intro
+
+## Status
+
+**Published content currently lives in** `Lectures/Lecture_1/`.
+
+Migrate or replace this stub when ready. Do not delete the existing Lecture_1 folder until the published version is fully moved here.
