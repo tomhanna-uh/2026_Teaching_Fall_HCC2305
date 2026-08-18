@@ -192,16 +192,52 @@ What makes government or The State different from other organizations? Is collec
 
 - For Group 2 organizations: Who are they responsible to, and how do we view their use of force?
 
-# The State
+# The State / Government
 
-## What Is "the State"?
+## What Is Government?
 
-**The organized, coercive use of violent force commonly accepted as legitimate**
+::: {.custom-style style="font-size: 55px;"}
+The organized coercive use of physical (violent) force that is commonly accepted as legitimate
+:::
+
+## Key terms in the definition
 
 - Organized
-- Coercive use
-- Violent force (armed force)
-- Legitimacy
+- Coercive
+- Physical (violent) force
+- Legitimate
+
+## Organized
+
+Not random individuals acting alone.
+
+Structure, roles, continuity — an institution that outlasts any one person in office.
+
+## Coercive
+
+Not a request. Not a suggestion.
+
+Compliance is backed by the ability to compel — including against your will.
+
+## Physical (violent) force
+
+Ultimately rooted in physical power: police, courts, prisons, military.
+
+Fines and orders matter because physical enforcement stands behind them.
+
+## Legitimate
+
+Commonly accepted as rightful — by enough people that the system holds.
+
+Same force without legitimacy is crime, vigilantism, or terror — not government.
+
+## Putting it together
+
+::: {.custom-style style="font-size: 55px;"}
+Government = organized + coercive + physical force + legitimacy
+:::
+
+That combination is what other organizations lack.
 
 ## What Is Politics?
 
@@ -225,7 +261,7 @@ These organizations all engage in collective action, but lack one thing the stat
 - Charities
 - Businesses — The Market
 
-**Coercive use of violent force**
+**Coercive use of physical force treated as legitimate**
 
 ## Two Spheres
 
@@ -233,7 +269,7 @@ These organizations all engage in collective action, but lack one thing the stat
 Family, church, market, charities...
 
 **Coercive Sphere**  
-The State
+The State / government
 
 ## Politics Is About
 
