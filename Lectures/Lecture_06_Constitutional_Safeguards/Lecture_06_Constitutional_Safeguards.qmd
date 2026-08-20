@@ -1,15 +1,16 @@
 ---
-title: "Lecture 06: Constitutional Safeguards"
-subtitle: "GOVT2305: Federal Government"
+title: "Lecture 6: Constitutional Safeguards"
+subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 2, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
-    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+    footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,201 @@ format:
     toc: true
 ---
 
-# Constitutional Safeguards
+## Today
 
-## Placeholder
+- Why the Constitution matters
+- Separation of powers
+- Checks and balances
+- Federalism (including who was once independent)
+- Discussion
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 55px;"}
+By the end of today you will name the main structural tools the Constitution uses to limit organized coercive force — and why splitting power is the point.
+:::
+
+## Bridge
+
+- Force is dangerous (Lectures 2–3)
+- Values aim at peaceful equals (Lecture 4)
+- Origins: force appears for order and rights (Lecture 5)
+- Today: *how* the Constitution tries to keep that force limited
+
+## Why care about the Constitution?
+
+::: {.custom-style style="font-size: 50px;"}
+A system designed to allow the good and limit the bad from coercive power
+:::
+
+## Design tools
+
+- Separation of powers
+- Checks and balances
+- Federalism
+- (Later) Bill of Rights
+
+# Separation and Checks
+
+## Separation of powers
+
+![](../../assets/separation_of_powers.jpg){width="90%"}
+
+## Split power
+
+::: {.custom-style style="font-size: 55px;"}
+Separate power among groups with different agendas
+:::
+
+## Balance and check
+
+::: {.custom-style style="font-size: 55px;"}
+Competing interests force groups to check each other
+:::
+
+## Checks and balances
+
+![](../../assets/checks_arrows.jpg){width="90%"}
+
+## No one dominates alone
+
+::: {.custom-style style="font-size: 55px;"}
+No group or person has enough power to act alone
+:::
+
+## Three branches
+
+![](../../assets/3_branches_powers.jpg){width="90%"}
+
+## Basic jobs
+
+- Legislative — makes law
+- Executive — executes and governs
+- Judicial — interprets and applies
+
+## Congress checks
+
+- Impeach
+- Override veto (2/3)
+- Structure court jurisdiction
+
+## President checks
+
+- Veto
+- Pardon
+- Discretion in enforcement
+
+## Courts check
+
+::: {.custom-style style="font-size: 55px;"}
+Judicial review — Constitution as supreme law
+:::
+
+## Supreme Law
+
+::: {.custom-style style="font-size: 48px;"}
+This Constitution … shall be the supreme Law of the Land
+:::
+
+— Article VI
+
+# Into Federalism
+
+## Congress itself is split
+
+::: {.custom-style style="font-size: 55px;"}
+House and Senate — different terms, constituencies, roles
+:::
+
+## Senate and the states
+
+::: {.custom-style style="font-size: 50px;"}
+Designed to represent states — bridge into federalism
+:::
+
+## States were sovereign
+
+::: {.custom-style style="font-size: 50px;"}
+Declaration: free and independent *States* — plural
+:::
+
+## Who was actually independent?
+
+::: {.custom-style style="font-size: 48px;"}
+Thirteen original states · Vermont · Texas · Hawaii
+:::
+
+## The other states
+
+::: {.custom-style style="font-size: 50px;"}
+Bought or won in war — still get the federalism bargain
+:::
+
+## Why that history matters
+
+::: {.custom-style style="font-size: 50px;"}
+Federalism is shaped by places that were real countries first
+:::
+
+# Federalism
+
+## National and state power
+
+![](../../assets/powers.jpg){width="90%"}
+
+## Reserved powers
+
+::: {.custom-style style="font-size: 50px;"}
+Powers not given to the United States remain with the states or the people
+:::
+
+## Tenth Amendment
+
+::: {.custom-style style="font-size: 48px;"}
+The powers not delegated to the United States … are reserved to the States respectively, or to the people.
+:::
+
+## State power in practice
+
+::: {.custom-style style="font-size: 55px;"}
+Most ordinary crime · property · contracts · family · intrastate life
+:::
+
+## Enumerated national powers
+
+![](../../assets/enumerated.jpg){width="85%"}
+
+## Enumerated means limited
+
+::: {.custom-style style="font-size: 55px;"}
+Unless the Constitution grants it, it is not a federal power
+:::
+
+# Discussion
+
+## Discussion
+
+- Which safeguard do you trust most to limit abuse — separation, checks, or federalism?
+- Does knowing that Texas (and a few others) were independent countries change how federalism feels?
+
+# Next
+
+## Next class (September 9): What’s Missing / Amendments
+
+Come ready to talk about original omissions and how the Constitution has been formally changed.
+
+## Reminders
+
+- Module 1 Study Guide and Connect due **September 18**
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+- Author: Tom Hanna
+- Website: [tomhanna.me](https://tom-hanna.org/)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Creative Commons License](../../assets/creative_commons_license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
