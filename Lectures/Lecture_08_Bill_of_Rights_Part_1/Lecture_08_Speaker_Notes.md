@@ -15,7 +15,7 @@ Students should leave able to: (1) explain that "Congress shall make no law" ori
 
 Emphasize: as understood at the Founding and through Barron v. Baltimore (1833). Changes begin in the 1940s via 14th Amendment incorporation. Preview only — full treatment in Court Cases.
 
-Speech / press / assembly / petition: you will mention verbally that they return later; nothing on slides.
+Speech / press / assembly / petition: mention verbally that they return later; nothing on slides.
 
 ---
 
@@ -34,7 +34,7 @@ As written: militia explanation + right of the people. Disagreement about the ex
 
 ---
 
-## Home sequence (as requested)
+## Home sequence
 
 1. Third Amendment text  
 2. `home_castle.jfif`  
@@ -50,25 +50,35 @@ Spoken beat: the Bill of Rights repeatedly treats the home as special even witho
 ## Fifth — property only this day
 
 Due process of life, liberty, **property** + Takings (public use + just compensation).  
-Criminal-suspect pieces of 5th, 6th, 8th → later Court Cases lectures. One explicit "Later" slide so students know the deferral is intentional.
+Criminal-suspect pieces of 5th, 6th, 8th → later Court Cases lectures.
 
 ---
 
 ## Ninth / Tenth
 
 Rights retained by the people; powers reserved to the states or the people.  
-`rights_powers.jfif` + "person vs citizen" beat. Supports the larger theme that the Founders distinguished categories carefully.
+`rights_powers.jfif` + "person vs citizen" beat.
 
 ---
 
 ## Privacy discussion
 
 No general right to privacy in the text; massive home protections nonetheless.  
-Discussion: Should we pass a right-to-privacy amendment? What should it say? How and where should it apply?  
-Let students propose language; you can note trade-offs (breadth vs. justiciability) without forcing a conclusion.
+Discussion: Should we pass a right-to-privacy amendment? What should it say? How and where should it apply?
 
 ---
 
-## Next
+## Next class (September 16)
 
-September 16: Better Angels (short post-quiz + Module 2 intro).
+**Better Angels of Our Nature** — relatively short lecture, then discussion:
+
+**Why limit government?** based on material so far, drawing together:
+
+- Government as organized coercive force
+- Ethics of the use of force
+- Classical liberal challenge: live together peacefully as dignified equals and empower the individual
+- Overstatement of problems in light of incredible human progress (preview of Better Angels / progress data)
+
+**Quiz is September 21** (not on the 16th).
+
+Reminders on slide: Module 1 Study Guide and Connect due September 18; Quiz September 21.
