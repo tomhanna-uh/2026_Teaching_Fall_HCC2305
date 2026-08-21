@@ -1,15 +1,16 @@
 ---
-title: "Lecture 09: The Better Angels of Our Nature"
-subtitle: "GOVT2305: Federal Government"
+title: "Lecture 9: The Better Angels of Our Nature"
+subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 16, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
-    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+    footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,163 @@ format:
     toc: true
 ---
 
-# The Better Angels of Our Nature
+## Today
 
-## Placeholder
+- Long-run trends in violence, health, and prosperity
+- Why the news still feels like permanent crisis
+- Why that matters for how we think about government — and about the world
 
-HCC: shorter / post-quiz + Module 2 intro. Content to be developed.
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 48px;"}
+By the end of today you will explain why long-run declines in violence and rises in health and living standards make a habit of caution before drastic government action rational — even when the news feels like permanent crisis — and why the world (and the United States) are in much better shape than they often seem.
+:::
+
+## Bridge
+
+- We have defined government as organized coercive force
+- Ethics of when force is justified
+- Limits in the founding design and the Bill of Rights
+- Today: another reason for long consideration before drastic action
+
+# How It Feels
+
+## The feeling of permanent crisis
+
+::: {.custom-style style="font-size: 55px;"}
+Bad news is news — slow improvement is not
+:::
+
+## Availability
+
+::: {.custom-style style="font-size: 48px;"}
+What is vivid and recent feels more common than it is
+:::
+
+# Violence
+
+## Homicide over the long run
+
+![Long-run homicide rates in Western Europe](../../assets/europe_homicide_rates.png){fig-alt="Chart of long-run homicide rates across Western Europe showing large declines from the late Middle Ages to the present" width="95%"}
+
+## Order of magnitude
+
+::: {.custom-style style="font-size: 50px;"}
+Medieval rates often 10–40+ per 100,000 — modern Western Europe near 1
+:::
+
+# Health
+
+## Life expectancy
+
+![Global life expectancy over the long run](../../assets/life_expectancy.png){fig-alt="Chart showing global life expectancy rising from around 30 years in 1900 to over 70 years today" width="95%"}
+
+## More than twice as long
+
+::: {.custom-style style="font-size: 50px;"}
+Global average ~32 years in 1900 → ~73 years in the 2020s
+:::
+
+## Child survival
+
+::: {.custom-style style="font-size: 48px;"}
+Pre-modern: large shares of children died before adulthood — every country has improved
+:::
+
+# Prosperity
+
+## Extreme poverty — the share
+
+![Share of world population in extreme poverty](../../assets/extreme_poverty_share.png){fig-alt="Line chart showing the share of world population in extreme poverty falling from a large majority historically to around 9 to 10 percent today" width="95%"}
+
+## Despite a much larger world
+
+![People in extreme poverty versus world population](../../assets/poverty_vs_population.png){fig-alt="Dual-axis chart showing fewer people in extreme poverty even as world population grew substantially" width="95%"}
+
+# Environment (one example)
+
+## Decoupling: pollution vs growth
+
+![U.S. air pollution emissions fell while GDP and population grew](../../assets/epa_chart.png){fig-alt="EPA chart showing criteria air pollutant emissions declining since 1970 while U.S. GDP, vehicle miles, energy use, and population increased" width="95%"}
+
+## Cuyahoga — then
+
+![Cuyahoga River fire, 1948](../../assets/cuyahoga_1948.jpg){fig-alt="Historical photograph of a fire on the Cuyahoga River in 1948" width="90%"}
+
+## Cuyahoga — then
+
+![Smoke from Cuyahoga River fire, 1952](../../assets/cuyahoga_1952.jpg){fig-alt="Historical photograph of smoke from a fire on the Cuyahoga River in 1952" width="90%"}
+
+## Cuyahoga — then
+
+![Filth pulled from the Cuyahoga River](../../assets/cuyahoga_then.jpg){fig-alt="Historical photograph of three men viewing filth pulled from the Cuyahoga River" width="90%"}
+
+## Cuyahoga — now
+
+![Recreation on the Cuyahoga River near downtown, 2019](../../assets/cuyahoga_2019.png){fig-alt="Modern photograph of paddleboarders and windsurfers on the Cuyahoga River near downtown in 2019" width="90%"}
+
+## Same river
+
+::: {.custom-style style="font-size: 48px;"}
+A river that repeatedly caught fire is now fishable and recreational
+:::
+
+# So What
+
+## Progress is not utopia
+
+::: {.custom-style style="font-size: 50px;"}
+Remaining problems are real — they are not evidence that the baseline is civilizational collapse
+:::
+
+- Problems to approach rationally
+- Not "end stage capitalism" of the neo-Marxist left
+- Not "Clash of Civilizations" destruction of the extreme populists
+
+## Better than it often seems
+
+::: {.custom-style style="font-size: 48px;"}
+The world, and the United States, are in much better shape on core measures of life, health, and safety than the permanent-crisis narrative suggests
+:::
+
+## Habit of caution
+
+::: {.custom-style style="font-size: 48px;"}
+When the baseline is historically high peace and prosperity, drastic uses of coercive power still need long consideration before breaking a good result
+:::
+
+# Discussion
+
+## Why limit government?
+
+Drawing on material so far:
+
+- Government as organized coercive force
+- Ethics of the use of force
+- Classical liberal challenge: live together peacefully as dignified equals and empower the individual
+- Overstatement of problems amid incredible human progress
+
+# Next
+
+## Next class (September 21): Quiz + Misinformation
+
+**Quiz is September 21** — not today.
+
+## Reminders
+
+- Module 1 Study Guide and Connect due **September 18**
+- **Quiz: September 21**
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
