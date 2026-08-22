@@ -4,9 +4,6 @@ subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: "October 5, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -14,6 +11,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -165,6 +165,10 @@ No law varying congressional compensation takes effect until **after** an electi
 
 - **Module 2 due October 9**
 - **Module 2 quiz: October 12**
+
+        - This is a Monday
+        - If you take all 4 quizzes you are exempt from the final
+        - You want to be exempt from the final
 
 ## Next content
 
