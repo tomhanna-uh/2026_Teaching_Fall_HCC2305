@@ -4,9 +4,6 @@ subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: "September 21, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -14,6 +11,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -245,11 +245,15 @@ Usually private. Show the correction. Do not perform the dunk.
 ## Next class
 
 **September 23 — Module 2 Head Start Day: no class**
+**September 28** Republic vs Democracy
+
 
 ## Reminders
 
 - Use the head-start day for Module 2 work
+- You should at a **minimum** *review the Module 2 Study Guide* and *watch the video in the required readings* before next Monday
 - Stay current on Connect / journals / study guides as assigned
+- Finish any unfinished Connect Assignments - they are already 15% off for late
 
 ## Authorship and License
 
