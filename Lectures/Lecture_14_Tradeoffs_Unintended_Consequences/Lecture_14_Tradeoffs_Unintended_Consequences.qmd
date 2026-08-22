@@ -6,6 +6,7 @@ date: "Fall 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -68,9 +69,9 @@ Candy bar or soda?
 
 ## Government faces the same reality
 
-Collective choices still involve trade-offs.
+- Collective choices still involve trade-offs.
 
-The tool is still coercive force.
+- The tool is still coercive force.
 
 ## Benefit versus enforcement cost
 
