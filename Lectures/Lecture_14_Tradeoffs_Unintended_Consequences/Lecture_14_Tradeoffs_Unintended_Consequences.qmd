@@ -2,8 +2,11 @@
 title: "Lecture 14: Trade-offs and Unintended Consequences"
 subtitle: "GOVT2305: Federal Government"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: October 7 2026
 format:
+  docx:
+    toc: true
+    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -12,9 +15,6 @@ format:
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
   pptx: {}
-  docx:
-    toc: true
-    number-sections: true
   html:
     toc: true
 ---
@@ -184,6 +184,17 @@ Tax rates versus revenue and growth.
 ::: {.custom-style style="font-size: 1.5em;"}
 The Executive — Defender and Despoiler of Rights
 :::
+
+## Reminders
+
+- **Module 2 due October 9**
+- **Module 2 quiz: October 12**
+
+        - This is a Monday
+        - If you take all 4 quizzes you are exempt from the final
+        - The Final will be harder than the quizzes
+        - Being exempt will help your grade
+        
 
 ## Authorship and License
 
