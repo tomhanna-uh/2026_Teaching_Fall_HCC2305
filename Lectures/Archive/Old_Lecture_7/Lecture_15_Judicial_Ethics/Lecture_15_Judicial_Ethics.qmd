@@ -1,0 +1,158 @@
+---
+title: |
+    | GOVT2305: American Government 2
+    | Lectures 15: Judicial Ethics
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: January 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+Today: Judicial Ethics
+
+        - Ethical Requirements of Judges
+        - Enforcement
+        - Impeachment
+        
+Next class: Major Court Cases
+
+
+## Announcements 
+
+-
+
+# Judicial Ethics
+
+## Code of Conduct for United States Judges
+
+- Adopted by the Judicial Conference of the United States
+- Aspirational rules
+- Not legally binding
+
+## Code of Conduct for United States Judges
+
+- Integrity and Independence
+- Impartiality and Diligence
+- Avoiding Impropriety (and appearance of)
+- Extrajudicial Activities
+- Political Activity
+
+## Code of Conduct for Justices of the Supreme Court
+
+- First adopted in November 2023
+- Justices self-enforce the code
+- Prior to 2023, Justices consulted various judicial codes at their own discretion
+
+
+## How bad can court corruption be? 
+
+Bribery in Houston Family Court (1970s and 1980s)
+
+- Judges in Houston Family Court accused of taking bribes
+- Awarding child custody to wealthy ex-husbands
+- Even awarded custody to alleged sexual abusers
+- Accusations include cronyism, incompetence, sexism, racism, bribery, and fraud. 
+- Courtwatch, a women's grassroot movement, helped defeat these judges at the polls
+
+- https://www.amazon.com/Women-CourtWatch-Reforming-Corrupt-Family/dp/0292709587
+
+
+
+## Conflicts of Interest
+
+- Judges must recuse themselves if there is a conflict of interest
+- This is a legal requirement (28 USC § 455)
+- Recusal for these conflicts:
+
+        - Financial conflicts
+        - Personal biases
+        - Prior involvement in a case as a lawyer
+        
+## Bribery
+
+- offering or receving anything of value to influence an official act
+- prohibited by 18 U.S. Code § 201
+- Also referenced in the US Constitution as grounds for impeachment
+
+## Judicial Conduct and Disability Act of 1980 
+
+- Investigation process
+- Chief Judge for the circuit reviews complaints
+- Special committee of judges investigates
+- Committee refers findings to the Circuit Judicial Council
+
+        - No action
+        - corrective measures
+        - referral to the Judicial Conference
+
+## Judicial Conduct and Disability Act of 1980 
+
+- Investigation process
+- Chief Judge for the circuit reviews complaints
+- Special committee of judges investigates
+- Committee refers findings to the Circuit Judicial Council
+- Judicial Conference
+
+        - No action
+        - corrective measures
+        - referral for impeachment
+        
+## Judicial Conduct and Disability Act of 1980 
+
+- Investigation process
+- Chief Judge for the circuit reviews complaints
+- Special committee of judges investigates
+- Committee refers findings to the Circuit Judicial Council
+- Judicial Conference
+- Impeachment
+
+## Justice Department
+
+- Cases of bribery are also prosecuted as crimes by the Justice Department
+
+
+## Issues
+
+- Short of actual bribery, the US Supreme Court Justice's are nearly immune from consequences
+- Many decisions are left to the judges unless there is a complaint
+- Corruption not involving bribery can be hard to prove
+- Prosecutors may be hesitant to prosecute judges
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

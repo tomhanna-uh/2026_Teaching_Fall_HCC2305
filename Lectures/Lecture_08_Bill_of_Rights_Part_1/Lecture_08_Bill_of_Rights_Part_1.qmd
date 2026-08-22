@@ -4,9 +4,6 @@ subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: "September 14, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -14,6 +11,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -227,7 +227,11 @@ Short lecture, then discussion of why we limit government based on material so f
 ## Reminders
 
 - Module 1 Study Guide and Connect due **September 18**
-- **Quiz: September 21**
+- **Module 1 Quiz: September 21** **In Class**
+
+        - If you take all the quizzes, you are exempt from the final
+        - The final will be much harder than the quizzes
+        - Your grade will benefit greatly from taking the quizzes 
 
 ## Authorship and License
 

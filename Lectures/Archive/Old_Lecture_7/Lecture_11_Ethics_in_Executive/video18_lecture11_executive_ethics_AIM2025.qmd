@@ -1,0 +1,303 @@
+---
+title: |
+    | GOVT2305: AIM Section
+    | Video 18: Ethics in the Executive Branch
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Ethics in the United States Government Executive Branch
+
+
+
+## Guiding Principles for Ethical Conduct
+
+- Public service is a public trust
+- Loyalty to the Constitution, laws, and ethical principles
+- Impartiality
+- Conscientious performance of duty
+- Protection of Federal property
+- Protection of Federal property
+- Disclosure of misconduct
+
+## Guiding Principles for Ethical Conduct
+
+- Financial responsibility
+- Equal opportunity
+- Appearance of impropriety
+- Honest effort
+- Authorized commitments
+
+# The President and Vice-President
+
+## 18 U.S.C. § 208
+
+- 18 U.S.C. § 208 is the primary federal conflict of interest statute 
+
+
+## 18 U.S.C. § 208
+
+- 18 U.S.C. § 208 is the primary federal conflict of interest statute
+
+- the President and Vice-President are specifically *exempt* from 18 U.S.C. § 208
+
+
+
+
+## Presidential Exemption
+
+- Subjecting the President and Vice-President to the Courts in this way could interfere with their Constitutional duties.
+
+
+## Presidential Exemption
+
+- Subjecting the President and Vice-President to the Courts in this way could interfere with their Constitutional duties.
+
+- Giving the Courts an additional, extra-Constitutional power would upset the carefully crafted Constitutional Balance of Powers.
+
+## Presidential Exemption
+
+- Subjecting the President and Vice-President to the Courts in this way could interfere with their Constitutional duties.
+
+- Giving the Courts an additional, extra-Constitutional power would upset the carefully crafted Constitutional Balance of Powers.
+
+- The Constitution provides an enforcement mechanism as part of its system of Checks and Balances - 
+
+
+## Impeachment
+
+>The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
+
+
+## Impeachment
+
+- Congress may investigate the President and Vice-President under the impeachment power
+- Congress has the power to subpoena witnesses and Presidential records
+- Courts will enforce Congressional subpoenas, up to and including imprisoning those who do not comply
+
+
+
+## Terms
+
+- Impeachment - a list of charges, similar to an indictment or information in a criminal trial
+- Conviction - 2/3 of US Senators voting that the person is guilty of the impeachment charges after a trial in the US Senate
+- Treason is specifically defined in the Constitution
+- Bribery is not defined in the C., but is accepting something of value in exchange for some official favor
+- high crimes and Misdemeanors: not specifically defined
+
+
+## High crimes and misdemeanors
+
+- Crimes of corruption that threaten the system of government
+
+- Not all crimes and misdemeanors meet this
+
+- These do not actually need to be crimes and misdemeanors defined by statutes
+
+
+## Example 1
+
+- President and others are having a poker game, one accuses the President of cheating, and the President punches him? 
+
+- Gambling may be illegal in some areas.
+- Assault is illegal.
+
+Is this a "high crime or misdemeanor"?
+
+
+## Example 2
+
+- The President wants the Vice-President to break a tie in the Senate and the Vice-President refuses. The President leaks private information to the press about the Vice-President that results in his resignation?
+
+- Releasing true information to the press is generally not illegal.
+- The Vice-Presidential power to break ties is an independent Constitutional power that belongs solely to the Vice-President.
+
+- Is this a "high crime or misdemeanor"?
+
+## Impeachment consequences
+
+> Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
+
+
+## Impeachment consequences
+
+- Removal from office (automatic)
+- Disqualification from future office (optional)
+
+## Key issues
+
+- Extreme partisan polarization 
+
+        - political impeachments
+        - political acquittals
+        
+- Limited consequences
+
+        - Presidential immunity from prosecution in the Court for official acts (Trump v. United States 2024)
+        
+- Lack of clear definitions other than Treason^[Even the valid definition of Treason is widely unknown or disregarded by the public.]
+
+
+# Executive Branch Employees
+
+## Loyalty to the Constitution, laws, and ethical principles
+
+> Employees are expected to uphold the highest standards of integrity and act in accordance with the law.
+
+## Impartiality
+
+> Employees must perform their duties objectively and without favoritism towards any individual or organization.
+
+## Conscientious performance of duty
+
+> Employees are expected to carry out their responsibilities diligently and with a commitment to excellence. 
+
+
+## Protection of Federal property
+
+>Employees must safeguard government resources and use them only for authorized purposes. 
+
+
+## Disclosure of misconduct
+
+> Employees have a responsibility to report any instances of waste, fraud, abuse, or corruption.
+
+
+## Financial responsibility
+
+> Employees must fulfill their financial obligations as citizens, including paying taxes. 
+
+## Equal opportunity
+
+> Employees must uphold laws and regulations that promote equality and fairness for all Americans.
+
+ 
+ 
+## Appearance of impropriety
+
+> Employees must avoid any actions that could create the perception of unethical behavior. 
+
+## Honest effort
+
+> Employees must be dedicated to performing their duties with integrity and to the best of their abilities. 
+
+
+## Authorized commitments
+
+> Employees must not make promises or commitments that exceed their authority or bind the government without proper authorization. 
+
+
+
+
+## How do these compare to the requirements of a fiduciary?
+
+
+
+
+
+<!-- ## Legal Authority for Ethics Regulations -->
+
+<!--         - Sections 202 to 209 of Title 18 of the U.S. Code 3 -->
+<!--         - Executive Order 12674 as modified by EO 12731 3 -->
+<!--         - Regulations at 5 CFR 2635 3 -->
+<!--         - The Justice Department has supplemented these branch-wide regulations with specific rules that apply to Department employees at 5 CFR 38013. -->
+<!--         - Executive Order 13989 on Ethics Commitments by Executive Branch Personnel 4 -->
+<!--         - Compilation of Federal Ethics Laws provided by the U.S. Office of Government Ethics (OGE) 5 -->
+
+
+<!-- ## Regulations and Procedures for Ethical Conduct -->
+
+<!-- - Statutes, Regulations and Executive Orders for enforcement -->
+
+<!--         - The Standards of Ethical Conduct for Employees of the Executive Branch  -->
+<!--         - 18 U.S.C. § 201-209  -->
+
+<!-- - Penalties  -->
+
+<!--         # 18 U.S.C. § 216 for conflict of interest -->
+
+## Agency responsibilities
+
+- Designated Agency Ethics Official 
+
+        - Required by the  Ethics in Government Act
+        - Each agency must have a designated agency ethics official (DAEO)
+        - The DAEO administers the agency ethics program
+        
+## U.S. Office of Government Ethics (OGE)     
+
+- Leads and oversees the Executive Branch ethics program
+- provides support and training to over the DAEOs in over 140 agencies
+- Issues legal advisories, program advisories, and informal advisory opinions
+
+
+## Major Cases of Ethical Misconduct
+
+
+- Rachael Rollins, the U.S. attorney for Massachusetts, resigned after the Justice Department’s inspector general and the Office of Special Counsel found she committed a litany of ethical violations, including attending a Democratic National Committee fundraiser, accepting free Celtics tickets from a sports agent with business before her office, and improperly disclosing non-public information to the media to try to damage a political rival
+
+## Major Cases of Ethical Misconduct
+
+- Kellyanne Conway, counselor to President Trump, was found to have violated the Hatch Act on numerous occasions by the Office of Special Counsel
+
+## Major Cases of Ethical Misconduct
+
+- Louis DeJoy, the postmaster general, retained interest in an organization that contracts with the United States Postal Service
+
+## Major Cases of Ethical Misconduct
+
+- Wilbur Ross, the commerce secretary, maintained ownership in a company that does business with China and is partially owned by the Chinese government.
+
+
+## Key Challenges
+
+- Balancing individual rights with government accountability
+
+- Preventing conflicts of interest
+
+- Effective enforcement of  ethical standards
+
+- Promoting ethical culture
+
+
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+

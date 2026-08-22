@@ -1,0 +1,351 @@
+---
+title: |
+    | GOVT2305: AIM Section
+    | Video 26: Economic, Environment, and Social Policy Trade-offs
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: April 19, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today: Economic, Social, and Environmental Policy
+
+        - Why public policy is necessary: Collective Action Problems
+        - Judging Public Policy Trade-offs
+        - What are the trade-offs?
+        - What are the costs?
+        - Economic vs Social trade-offs
+        - Short term vs long term trade-offs
+        
+- Video 27: Ethics of the Citizen
+
+- Video 28: Final Review
+
+
+
+# Economic, Social and Environmental Policy: Collective Action Problems, Trade-offs, and Choices
+
+
+
+
+
+## Why Public Policy is Necessary: Collective Action Problems
+
+- Collective Action Problems: Individuals would benefit from cooperating but incentives not to cooperate are stronger
+
+- Collective Action Problems: lack of information, coordination, or trust among individuals.
+
+
+
+## Is government action the only solution?
+
+- Markets actually solve far more collective action problems than government
+
+        - Existing markets
+        - Privatization of government enterprises
+
+- Private governance structures - polycentric governance
+
+
+## Collective action problems and Market Failures
+
+
+- Externalities
+- Free rider problems
+- Tragedy of the Commons 
+
+
+## Externalities
+
+![Negative Externality](refinery_pollution.jpg)
+
+
+
+Source: [phys.org](https://phys.org/news/2021-03-trillions-hidden-energy-externalities.html)
+
+## Externalities
+
+![Externalities](images.jpg)
+
+Source: [Economics Help](https://www.economicshelp.org/blog/glossary/externalities/)
+
+## Positive Externalities
+
+![Externalities](download.jpg)
+
+## Externalities Problem 
+
+- Negative externalities: *overproduction* because the cost is not included in the price
+- Positive externalities: *underproduction* because the benefit is not included in the price
+
+## Potential solutions
+
+- Government solutions to externalities
+
+        - lawsuits - U
+        - bureaucratic regulation - E, I, A, P
+        - Congressional regulation - E,D, I, p
+        - assigning property rights - F,U,P
+        - taxes and subsidies - F,E,D
+        
+- Pros and Cones
+
+        F = Efficient: Those who benefit bear the full cost
+        I = inefficient
+        E = Equal
+        U = Unequal
+        D = Democratic
+        A = Anti-democratic
+        P = politically unpopular
+
+
+
+Source: [Study.com](https://study.com/academy/lesson/positive-externality-definition-examples.html)
+
+
+## Free Rider Problems
+
+
+!![Free Rider Problems](free_rider.jpg)
+
+Source: [Economics Help](https://www.economicshelp.org/blog/1626/economics/free-rider-problem/)
+
+## Free Rider Problems
+
+![https://medium.com/@lener/the-silent-saboteur-the-psychology-of-the-free-rider-19bbe789832d](hangover.jpg)
+Source: University of Glasgow
+
+
+
+## Solutions to free rider problems
+
+- Easy
+
+        - Accept the free riders
+        - Those who want to pay, pay
+        
+- Government Solutions
+
+        - Taxes
+        - User fees, tolls, etc. 
+        - Regulation to exclude free riders 
+
+- Private solutions
+
+        - Private governance structures
+        - Private contracts
+        - Private insurance
+
+
+## Ultimately why do all these exist?
+
+:::{.custom-style style="font-size: 80px;"}
+What is the *ultimate* source of all these problems?
+:::
+
+
+## Ultimately why do all these exist?
+
+:::{.custom-style style="font-size: 50px;"}
+What is the *ultimate* source of all these problems?
+:::
+
+:::{.custom-style style="font-size: 80px;"}
+Resources are not unlimited and trade-offs have to be made between different things of value. 
+:::
+
+
+
+
+
+# Judging public policy trade-offs
+
+## Judging Public Policy Trade-offs: Collective Benefits vs Individual Rights
+
+- Free riders and taxation
+- Public health vs. *vice* laws and excise taxes
+
+        - alcohol tax
+        - marijuana prohibition
+        - cigarette taxes
+        - prohibition of flavored cigarettes
+        - soda taxes
+        
+## The trade-off
+        
+- The trade off: not just about *public benefit* vs *private wants and needs*
+
+
+## The trade-off
+        
+- The trade off: not just about *public benefit* vs *private wants and needs*
+- benefit vs *cost of enforcement*
+
+
+
+## The trade-off
+        
+- The trade off: not just about *public benefit* vs *private wants and needs*
+- benefit vs *cost of enforcement*
+- *financial costs* of enforcement - just the beginning
+
+
+## The trade-off
+        
+- The trade off: not just about *public benefit* vs *private wants and needs*
+- benefit vs *cost of enforcement*
+- *financial costs* of enforcement - just the beginning
+- *Human costs of enforcement* 
+
+
+## The trade-off
+        
+- The trade off: not just about *public benefit* vs *private wants and needs*
+- benefit vs *cost of enforcement*
+- *financial costs* of enforcement - just the beginning
+- *Human costs of enforcement* 
+- Remember the definition of government!
+
+
+## John Hancock: Smuggler 1737-1793
+
+![John Hancock, first signer of the Declaration of Independence was a smuggler evading British taxes on imported goods.](hancock.jpg)
+
+
+
+
+## Eric Garner: Smuggler 1970-2014
+
+![Eric Garner: Killed by New York police while selling loose cigarettes to evade NY cigarette taxes](garner.jpg) 
+
+Source: [Seven Last Words of the Unarmed](https://sevenlastwords.org/seven-lives/eric-garner/)
+
+## Incarceration Rates
+
+![Incarceration Rates](incarceration.jpg)
+
+
+Source: The Prison Policy Project
+
+
+
+
+## Judging Public Policy Trade-offs: Economic and Social Trade-offs
+
+
+- Poverty reduction versus climate change reduction
+- Minimum wage increase versus job growth
+- Subsidized healthcare versus inflation in healthcare prices
+- Higher public spending vs higher deficits and inflation
+- Education vs infrastructure
+- Inequality vs. income growth
+
+
+
+## Judging Public Policy Trade-offs: Economic and Social Trade-offs
+
+![Inequality vs. income growth](inequality.jpg) 
+
+
+
+
+Source: [What’s So Bad about Increasing Inequality in Canada?](https://irpp.org/research-studies/whats-so-bad-about-increasing-inequality-in-canada/)
+
+## Judging Public Policy Trade-offs: Economic and Social Trade-offs
+
+- Defense vs social services
+- Free trade: more jobs overall vs job losses in some industries
+- Costs of immigration vs economic growth contributions of immigrants
+- inequality vs economic growth
+- Tax rates vs tax revenue
+- Tax rates vs economic growth
+
+
+## Judging Public Policy Trade-offs: Economic and Social Trade-offs
+
+![Laffer Curve: Tax Revenue vs Tax Rate](laffer.jpg)
+
+
+
+Source: [Cato Institute](https://www.cato.org/blog/question-week-whats-right-point-laffer-curve)
+
+## Judging Public Policy Trade-offs: Economic and Social Trade-offs
+
+
+![Federal Spending Categories: 2024-2025](budget.png)
+
+
+
+## Judging Public Policy Trade-offs: Short-term vs Long-term Benefits
+
+
+- Higher spending now vs. Higher taxes later
+- More educations spending now vs. economic growth later
+- More infrastructure spending now vs. economic growth later
+- More regulation now vs. fewer, lower paid jobs later
+- More consumption now vs. environmental issues later
+- Lower immigration now vs. population decline later
+- Higher taxes now vs. slower poverty reduction
+
+
+## Recap
+
+- Collective action problems and market failures
+- Government is not the only solution
+- Where government is the solution, trade-offs should be considered carefully including:
+
+        - policy benefits versus individual freedoms and human costs
+        - economic and social trade-offs
+        - short-term versus long-term benefits
+        
+- The right solution in every case is to carefully consider all the trade-offs and make the best decision considering all aspects of the problem and potential solutions. 
+
+
+
+
+
+
+
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+

@@ -1,0 +1,694 @@
+---
+title: "Lecture 6: The Bill of Rights"
+subtitle: "The foundation of US civil liberties"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+
+
+## Agenda Today
+
+- Lecture: The Bill of Rights as the foundation of Civil Liberties
+        
+- Discussion/Activity: Civil Liberties and Majority Power
+        
+
+
+## Upcoming
+
+- Monday July 27, Module 2 Quiz
+- Monday Lecture: Government Official Ethics
+- Monday Discussion: Government Official Ethics
+
+
+
+## Due Dates
+
+- Module 2 Quiz - in class, July 27
+- Module 2 Study Guide - Due July 24, 11:59 PM
+- Module 2 Connect Assignments - Due July 27, 11:59 PM
+- Module 2 Journals - Due in class, July 27
+
+
+
+
+
+
+## Review
+
+- American philosophy: government exists for protection of individual rights **from violence**
+- Strong central government itself has huge **power** for coercive use of force/violence 
+- Separation of Powers, Checks and Balances, Federalism created to restrain federal government power 
+- The Anti-federalists wanted more protection than just limiting the government to certain enumerated powers (specific listed powers)...
+
+
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+                
+                - the demand was for a restraint on the federal government, not state governments
+                
+                
+                
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+                
+                - the demand was for a restraint on the federal government, not state governments
+                - Most state constitutions already had a bill or declaration of rights
+                
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+                
+                - the demand was for a restraint on the federal government, not state governments
+                - Most state constitutions already had a bill or declaration of rights
+                - Barron v. Baltimore (1833), Chief Justice John Marshall, United States Supreme Court - Bill of Rights does not apply to the states
+   
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+
+
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+
+        - No right to privacy
+        
+
+
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+
+        - No right to privacy
+        - No right to vote
+        
+        
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+- 10th Amendment - Powers of the states, rights of the people - federalism
+
+
+
+## Part 1: Bill of Rights
+
+- Restraint on *federal government*
+- First 10 amendments to Constitution
+- Not an exclusive list of the rights of the people
+- 10th Amendment - Powers of the states, rights of the people - federalism
+- Most **but not all** of the Bill of Rights has been applied to the states through the 14th Amendment
+
+
+
+## First Amendment: Protecting expression and conscience
+
+Constitution of the United States: First Amendment
+
+- *Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.*
+
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+                
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+
+2. No interference with the state established churches
+ 
+                - 1776 all 13 states had established churches
+                - 1786 Virginia disestablished Church of England
+                - New Hampshire 1817
+                - Massachusetts (Congregationalist) 1833
+
+ 
+ 
+<p style="font-size: large">Kidd, Colin. "Civil Theology and Church Establishments in Revolutionary America." *The Historical Journal.* Vol. 42, No. 4 (Dec., 1999). pp. 1007-1022</p>
+
+
+## First Amendment: Religion 
+
+ "no law respecting an establishment of religion"
+
+1. No official national church
+                
+                - No automatic church membership on birth
+                - No tax support for churches
+                - No government payment of preacher's salaries
+
+2. No interference with the state established churches
+ 
+                - 1776 all 13 states had established churches
+                - 1786 Virginia disestablished Church of England
+                - New Hampshire 1817
+                - Massachusetts (Congregationalist) 1833
+
+ 3. #2 will change in 1940
+ 
+<p style="font-size: large">Kidd, Colin. "Civil Theology and Church Establishments in Revolutionary America." *The Historical Journal.* Vol. 42, No. 4 (Dec., 1999). pp. 1007-1022</p>
+
+## First Amendment: Free exercise
+
+ - Free exercise of religion
+ 
+- Citizens practice faith according to their conscience
+- Engage in religious rituals (or don't)
+- Adopt a faith of their choosing (or don't)<sup>1</sup>
+                
+<p style="font-size: x-large">1 - In this respect, the  No Establishment Clause doesn't conflict, it reinforces.</p>
+ 
+## First Amendment: Not present
+
+Not present in the Constitution or First Amendment:
+
+- The phrase "Separation of Church and State"
+- The phrase "Wall of separation between church and state"
+
+Important questions:
+
+- Should either phrase be added?
+- What relations between church and state should be allowed?
+                
+ 
+## Second Amendment: Right to bear arms, independent state militias
+ 
+Constitution of the United States: Second Amendment
+ 
+ - "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
+ 
+ 
+## Second Amendment: A power and a right
+
+- There are two clauses (with unneeded commas)
+- Clause 1 *implies* a state power - the power to have an independent militia to secure the state's freedom
+- Clause 1 explains one reason the second is desirable
+- Clause 2 grants a right  - the right to bear arms
+- Clause 2 specifies the people hold the right
+
+
+## Second Amendment: Questions
+
+- **Does disagreement about the explanation (militia) negate the right of the people?**
+- *What does well regulated mean?*<sup>1</sup>
+                
+<p style="font-size: x-large">1 - Supreme Court Justices have argued about these since at least the 1920s: We can disagree. These are points for thought. </p>
+
+
+                
+## Third Amendment: Quartering of Soldiers
+
+Constitution of the United States: Third Amendment 
+
+- "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law."
+- This hasn't come up in a long time
+
+
+
+## Third Amendment: Quartering of Soldiers
+
+
+- Still important: why?
+
+
+
+## Third Amendment: Quartering of Soldiers
+
+
+- Still important: why?
+
+It is one of the places that the Bill of Rights emphasizes the **sanctity of the home.**
+
+
+                
+## Fourth Amendment: Search and seizure
+
+Constitution of the United States: Fourth Amendment
+
+- "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized." 
+          
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants      
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place               
+                
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+   
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+                - The personal possessions regardless of location
+
+
+
+
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Right of the people
+- Establishes the sanctity of four things: 
+
+                - The person or individual 
+                - The home or dwelling place
+                - The papers regardless of location
+                - The personal possessions regardless of location
+
+     
+                
+Another place in the Bill of Rights which establishes the *sanctity of the home*.
+
+
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants
+
+                - probable cause
+                - Oath or affirmation
+                - description of place to be searched
+                - description of person or things to be seized
+                
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants
+- Unreasonable is not defined
+
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable?
+                - Are all searches with warrants reasonable?
+ 
+ 
+## Fourth Amendment: Two parts
+
+- No unreasonable search and seizure
+- Requirements for warrants
+- Unreasonable is not defined
+
+                - Confusion because of 2nd part: Are warrants always required for a search to be reasonable? Not according to the courts
+                - Are all searches with warrants reasonable? Not necessarily<sup>1</sup>
+         
+         
+<p style="font-size: x-large"><a href = "https://www.law.cornell.edu/wex/fourth_amendment#:~:text=Reasonableness%20Requirement,also%20satisfy%20the%20reasonableness%20requirement.">Cornell University Legal Information Institute</a></p>  
+
+## Fifth Amendment: Due Process and Property Rights
+
+Constitution of the United States: Fifth Amendment
+
+"No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation."
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+
+                - does not apply to minor crimes (initially)
+                - exception for active military - courts martial
+                - exception for militia when called into active service - courts martial
+                
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+                
+                - Does not apply to second trial after appeal
+                - May apply if a trial reaches a certain point and ends without a verdict
+                - Does not apply if the jury fails to reach a verdict
+                
+                
+                
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+
+                - Defendant not required to testify against him or herself in a criminal trial
+                - Does not apply to civil trials
+                - Has been extended considerably to assure that involuntary statements are not used and that statements are not coerced
+
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+
+                - government must follow proper procedures
+                - protects life
+                - protects liberty 
+                - protects property
+                
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+
+                - government must follow Due Process = proper procedures
+                - protects life
+                - protects liberty 
+                - protects property
+                               
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+- *Takings Clause*
+
+
+
+What if a new city dump causes the value of property next door to drop?
+
+## Fifth Amendment: Due Process and Property Rights
+
+- Major civilian crimes require an indictment by a grand jury
+- May not be tried again for the same crime after being acquitted
+- Protection against *self-incrimination*
+- Due Process of Law 
+- *Takings Clause*
+
+What if a new federal regulation causes the value of property to drop or causes someone to lose income? 
+
+
+
+
+## Sixth Amendment: Rights of defendants in trials
+
+Constitution of the United States: Sixth Amendment
+
+- "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence."
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+
+                - the State and district where the crime was committed
+                - District previously ascertained by law - who does this?
+                
+                
+                
+                
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+
+                - the State and district where the crime was committed
+                - District previously ascertained by a judge
+                - Does not specify jury requirements
+                
+                
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+- Right to confront witnesses against him 
+
+
+## Sixth Amendment: Rights of defendants in trials
+
+- Speedy trial
+- Public trial
+- Jury trial
+- Right to know the charges
+- Right to confront witnesses against him 
+- Right to subpoena witnesses for the defense
+- Right to an attorney
+
+
+
+## Seventh Amendment: Civil trials
+
+Constitution of the United States: Seventh Amendment
+
+"In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law."
+
+
+
+
+## Seventh Amendment: Federal Civil trials
+
+- Trial by jury in cases with large values
+- Re-examination Clause: Judges may not overturn jury verdicts except in accordance with the rules
+
+
+
+## Eighth Amendment: Bail, Fines, Punishment
+
+Constitution of the United States: Eighth Amendment
+
+- "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
+
+
+
+## Eighth Amendment: Bail, Fines, Punishment
+
+- No excessive bail
+- No excessive fines
+- No cruel and unusual punishment
+
+None of these are defined. Do we follow the standard of 1791 or the standard of today?
+
+
+
+## Ninth Amendment: Other rights
+
+Constitution of the United States: Ninth Amendment
+
+- "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people."
+
+
+## Ninth Amendment: Other rights  
+
+- Federalists were worried that listing rights would encourage the abuse of other rights
+- Some rights were already listed in the Constitution like the *writ of habeas corpus*, the Bill of Rights did not amend them out
+- Much debate about the meaning
+- Rarely referenced by the Courts
+- Seems to be reinforcing the idea that federal government not do anything unless explicitly permitted by the Constitution
+
+
+## Tenth Amendment: State powers
+
+Constitution of the United States: Amendment Ten
+
+"The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."
+
+
+
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+
+                - Article I Powers of Congress
+                - Article II Powers of President
+                - Article III Powers of the Courts
+                
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+- Powers not prohibited to the States
+
+<a href = "https://constitutioncenter.org/the-constitution/articles/article-i/clauses/767">Article I, Section 10</a>
+        
+Examples of powers prohibited to the States include:
+
+                - entering treaties
+                - coining money
+                - creating legal tender
+                - granting titles of nobility
+                - taxing imports or exports
+                - impairing the obligation of contract
+                - engage in War
+                
+
+## Tenth Amendment: State powers
+
+- Powers not expressly given to the federal government
+- Powers not prohibited to the States
+- remain with the individual States or the people
+
+The Constitution doesn't specify which powers remain with the States and which with the people. 
+
+## Fourteenth Amendment
+
+> "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws."
+
+
+## Fourteenth Amendment: Due Process and Equal Protection
+
+- Birth right citizenship
+- Privileges and Immunities Clause
+- Equal Protection Clause
+- Due Process Clause
+
+
+## Fourteenth Amendment: Due Process and Equal Protection
+
+- Privileges and Immunities Clause
+
+        - Dead letter - rarely enforced
+        - Travel between states might apply
+        
+## Fourteenth Amendment: Due Process and Equal Protection
+
+- Equal Protection Clause
+
+        - Basis of Civil Rights laws and cases
+        
+## Fourteenth Amendment: Due Process Clause
+
+::: {.custom-style style="font-size: 80px;"}
+> ...nor shall any State deprive any person of life, liberty, or property, without due process of law; 
+:::
+
+## Fourteenth Amendment: Due Process clause
+
+- Originally meant that procedural due process was required
+
+
+        
+## Fourteenth Amendment: Due Process Clause 
+
+- Originally meant that procedural due process was required
+- Substantive due process has been added
+
+        - Selectively incorporated the Bill of Rights to the States
+        
+
+
+        
+
+
+
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>

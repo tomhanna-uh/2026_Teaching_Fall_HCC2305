@@ -1,0 +1,545 @@
+---
+title: |
+    | GOVT2305: American Government 2
+    | Constitutional Safeguards Against Abuse of Federal Power
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: January 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda 
+
+- This Video
+
+        - Brief review of the historical context
+        - Separation of Powers
+        - Checks and Balances
+        - Federalism
+
+- Next videos
+
+    - US Congress: Part I
+    - US Congress: Part II
+    - US Congress: Part III
+
+
+## Announcements
+
+- Reminders
+
+        - Module 1: March 31 11:59 PM
+        - Exam 1: March 29 to April 2
+
+
+
+# Today's Topic: Separation of Powers, Federalism, Checks and Balances
+
+## Review
+
+- Basic problem: Government is organized coercive violence seen as legitimate
+
+        - Great power to do good consensually where we are largely unified
+        - Great power to do bad if resort to corecive violence is necessary because there is not wide agreement
+
+
+## Why do we care about the Constitution? 
+
+- This applies to any Constitution intended to limit government power
+
+- The Constitution set out a system to limit the power of government to allow for the good and limit the bad
+
+- If we just pretend to follow it, it has no real power to limit oppression - political violence
+
+- The Constitution has been changed, in some ways drastically to deal with some of its original flaws
+
+- There is a process to change it further if there is unity in the desire for change, but fundamental rights are not up to simple majorities
+
+
+## How did the Constitutional design limit abuse of power
+
+- Separation of Powers within the federal government
+- Checks and balances between individuals groups in the federal government
+- Federalism: separation of powers between levels of government - state/federal
+- The addition of the Bill of Rights (First 10 Amendments)
+
+
+
+## Separation of Powers
+
+![Source: Bill of Rights Institute](./separation_of_powers.jpg)
+
+
+
+## Separation of Powers
+
+
+> The Constitution was devised with an ingenious and  intricate built-in system of checks and balances to guard  the people’s liberty against combinations of government  power.
+
+[National Center for Constitutional Studies: https://nccs.net/](https://nccs.net/)
+
+
+## Separation of Powers
+
+
+
+> The Constitution was devised with an ingenious and  intricate built-in system of checks and balances to guard  the people’s liberty against combinations of government  power.
+
+[National Center for Constitutional Studies: https://nccs.net/](https://nccs.net/)
+
+
+This is especially true when we consider the evolved Constitution  including the Bill of Rights plus 13th, 14th, 15th, 19th, and 26th  amendments
+
+
+
+## Splitting up power to prevent abuse
+
+- *Separate power* among competing groups with different  interests (goals, priorities, values, objectives)
+
+
+
+## Splitting up power to prevent abuse
+
+- *Separate power* among competing groups with different  interests
+- The power of one group *balances* the power of competing groups
+
+
+## Splitting up power to prevent abuse
+
+- *Separate power* among competing groups with different  interests
+- The power of one group *balances* the power of competing groups
+- The competing interests force the groups to *check* (reduce, restrain, control, limit, constrain, curb) each other's power
+
+
+## Checks and Balances
+
+![Source: https://lsintspl3.wgbh.org/en-us/lesson/midlit10-soc-splgovt/1](./checks_arrows.jpg)
+
+
+## Splitting up power to prevent abuse
+
+- *Separate power* among competing groups with different  interests
+- The power of one group *balances* the power of competing groups
+- The competing interests force the groups to *check*  each other's power
+- No one group or individual has sufficient power to dominate the others and act alone
+
+## Splitting up power to prevent abuse
+
+- *Separate power* among competing groups with different  interests
+- The power of one group *balances* the power of competing groups
+- The competing interests force the groups to *check* each other's power
+- No one group or individual has sufficient power to dominate the others and act alone
+
+This is **Separation of Powers** and **Checks and Balances**
+
+## Three Branches of Government: Basic Powers
+
+![Source: Have Fun with History](./3_branches_powers.jpg)
+
+## Three Branches of Government: Basic Powers
+
+- Legislative: Congress - Makes laws
+- Executive: President - Executes the laws and governs 
+- Judicial: Courts - Interprets and applies the laws
+
+
+
+## Legislative Branch: Article I
+
+Congress: Makes laws
+
+- Impeach Presidents and Justices of Supreme Court 
+
+## Legislative Branch: Article I
+
+Congress: Makes laws
+
+- Impeach Presidents and Justices of Supreme Court  
+- Override Presidential vetoes by 2/3 majority of both houses  
+
+## Legislative Branch: Article I
+
+Congress: Makes laws
+
+- Impeach Presidents and Justices of Supreme Court  
+- Override Presidential vetoes by 2/3 majority of both houses  
+- Restrict extent of the Supreme Courts jurisdiction
+
+
+
+## Executive Branch: Article II
+
+President: Executes the laws and governs
+
+- Veto bills passed by Congress
+
+
+
+## Executive Branch: Article II
+
+President: Executes the laws and governs
+
+- Veto bills passed by Congress
+- Pardon criminals convicted by Courts
+
+
+## Executive Branch: Article II
+
+President: Executes the laws and governs
+
+- Veto bills passed by Congress
+- Pardon criminals convicted by Courts
+- Some discretion in how laws are carried out and enforced
+
+
+    
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- No explicit powers to check the other branches listed in the COnstitution
+
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- No explicit powers to check the other branches listed in the COnstitution
+- Major implied power: Judicial Review
+
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- The Constitution is the ”supreme law of the land”  
+
+
+
+## Judicial Branch: Article III
+
+> This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding
+
+United States Constituion, Article VI, Clause 2
+
+
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- The Constitution is the ”supreme law of the land”  
+- Interpret and apply the laws including the Constitution
+
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- The Constitution is the ”supreme law of the land”  
+- Interpret and apply the laws including the Constitution
+- Implied: The power to review laws passed by Congress to
+enforce the Constitution
+
+
+## Judicial Branch: Article III
+
+Courts: Interpret and apply the laws
+
+- The Constitution is the ”supreme law of the land”  
+- Interpret and apply the laws including the Constitution
+- Implied: The power to review laws passed by Congress to
+enforce the Constitution
+- Implied: The power to review the acts of Presidents
+
+
+
+
+
+
+## Three Branches of Government: Checks on other branches
+
+- Congress - veto override, impeachment, set jurisdiction
+
+- President - veto, pardon, discretion in enforcement
+
+- Courts - Judicial review - decide the Constitutionality
+
+
+## Congress: More Separation of Powers
+
+Congress is split into two houses
+
+- House of Representatives
+- Senate
+
+
+
+## Question
+
+- The states claimed the status of 13 free and independent sovereign states in the Declaration of Independence states. True or False?
+
+    - A. True
+    - B. False
+    
+## Point Solutions Question 3
+
+Answer: True
+
+>We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States...
+
+States - plural, not "A Free and Independent State" singular
+
+
+## Congress: More Separation of Powers
+
+- Bills must pass both houses to become law
+- Each house has different powers and responsibilities
+- Each house has different constituencies and terms of office
+- Each house has different rules and procedures
+
+
+
+## Congress: More Separation of Powers
+
+- House of Representatives
+
+        - elected every two years
+        - elected by districts
+        - closer to the people, more responsive to public opinion
+        
+        
+        
+## Congress: More Separation of Powers
+
+- Senate
+
+        - elected every six years
+        - elected by states (originally appointed by states)
+        - more insulated from public opinion, more deliberative
+        - intended to represent the interests of the states
+        
+        
+## The interests of the states
+
+- The Senate was intended to represent the interests of the states
+
+## The interests of the states
+
+- The Senate was intended to represent the interests of the states
+- This was a compromise between large and small states
+
+
+
+## The interests of the states
+
+- The Senate was intended to represent the interests of the states
+- This was a compromise between large and small states
+- This was necessary to pass the Constitution because:
+
+        - the states were sovereign entities, essentially independent nations
+        
+        
+## The interests of the states
+
+- The Senate was intended to represent the interests of the states
+- This was a compromise between large and small states
+- This was necessary to pass the Constitution because:
+
+        - the states were sovereign entities, essentially independent nations
+        - the states had to ratify the Constitution
+        
+        
+## The interests of the states
+
+- The Senate was intended to represent the interests of the states
+- This was a compromise between large and small states
+- This was necessary to pass the Constitution because:
+
+        - the states were sovereign entities, essentially independent nations
+        - the states had to ratify the Constitution
+        - the states were the original source of the federal government's power
+
+## Federalism: Three types of government
+
+- Unitary: National government has all the power
+- Confederal: States have all the power
+- Federal: National and state governments share power based on constitutions
+- In a democratic republic, the people are the ultimate source of power and authority
+
+## Three Types
+
+
+![3 Types](types_government.png){.lightbox}
+
+
+
+
+## Federalism: National and State Power
+
+![Source: https://mlpp.pressbooks.pub/pol111mhs/chapter/3-1-federalism-as-a-structure-for-power/](powers.jpg)
+
+        
+        
+## Federalism: National and State Power
+
+- Original states were sovereign countries
+
+
+
+
+## Federalism: National and State Power
+
+- Original states were sovereign countries
+- States kept all powers not expressly given to the federal government  
+
+
+
+
+## Federalism: National and State Power
+
+- Original states were sovereign countries
+- States kept all powers not expressly given to the federal government  
+- Police powers: laws regulating **most major issues** like:
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+MURDER!
+:::
+- Assault, battery, kidnapping, almost all crimes of violence
+
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+THEFT!
+:::
+- fraud, robbery, trespassing, almost all crimes against property
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+PROPERTY REGISTRATION!
+:::
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+BUSINESS FORMATION and CONTRACTS           
+:::
+Most laws relating to contracts, types of businesses, liability, and more
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+INSURANCE          
+:::
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+ALMOST EVERYTHING *INTRASTATE*      
+:::
+Intrastate is within a single state's borders
+
+
+
+## Point Solutions Question 4
+
+Which of the following is a power of the states?
+
+    - A. Regulating commerce with other states (interstate)
+    - B. Regulating foreign commerce
+    - C. Regulating commerce within the state (intrastate)
+    - D. Regulating the military
+
+
+
+## Point Solutions Question 4
+
+Answer:     - C. Regulating commerce within the state (intrastate)
+
+
+
+
+
+## National Powers
+
+- Constitution gave explicit powers to the federal government
+
+
+![Source: https://www.youtube.com/@CareyLaManna](enumerated.jpg)
+
+
+## Bill of Rights
+
+> The powers not delegated to the United States by the  Constitution, nor prohibited by it to the States, are reserved to  the States respectively, or to the people.
+
+- 10th Amendment to the United States Constitution
+
+
+
+## Bill of Rights
+
+::: {.custom-style style="font-size: 80px;"}
+Unless the Constitution gives the federal government a power, it remains a state power or a right of the people
+:::
+
+## Point Solutions Question 5
+
+Which part of the Congress was intended to represent the interests of the states?
+
+    - A. The House of Representatives
+    - B. The Senate
+    - C. The President
+    - D. The Supreme Court
+    
+## Point Solutions Question 5
+
+Answer: B. The Senate
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+

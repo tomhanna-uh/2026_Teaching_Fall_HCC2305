@@ -1,0 +1,448 @@
+---
+title: |
+    | GOVT2305: American Government 2
+    | Video 12: Ethics in Government
+    | AIM Section
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Video 12: Basics of Ethics
+
+        - Trolley Problem
+        - Reciprocity
+        - Some theories of ethics
+        - Private trustee codes of ethics
+        
+
+
+- Video 13: Congressional Ethics
+
+        - Congressional Ethics Rules and Procedures
+        - Comparison to private sector ethics
+
+
+## Overview for today
+
+- Purpose and expectations
+- Trolley Problem
+- Reciprocity
+- Theories of Ethics
+- Government officials as Trustees
+
+        - comparison to private trustees or "fiduciaries"
+        - Is legality enough or it fall short of good ethics for government officials?
+
+
+## Purpose and Expectations
+
+- This course is listed under state requirements as covering ethics
+
+        - "Each semester we evaluate student performance in one of the Core Objectives. In Spring 2025, we will be evaluating personal responsibility, using the AAC&U VALUE Rubric for Ethical Reasoning (attached). We ask you to review this rubric as you plan your course for the spring."
+        
+- Ethical considerations in government are a growing concern among voters and for many of us (hopefully you!) more interesting than committee structures and obscure court cases
+
+- Considering ethics in government gives us a valuable chance to think about personal behavior both as citizens and potentially in our professions
+
+
+
+## Purpose and Expectations
+
+- I am not an ethicist, philosophy, or political theorist (political philosopher)
+- We will be exploring the topic together. 
+- I don't have "right" answers, just questions and suggestions.
+- If I express an opinion, you can disagree!
+- There will be a few terms and concepts you should learn.
+
+
+## Purpose and Expectations
+
+- If it were feasible to test this the way I would like, I would ask you to think through your opinions and submit it in writing. Since it isn't feasible...
+- I will ask you to remember some key concepts that we discuss and a few technical details of ethical standards in government on each exam.
+- I expect those will be easier than most exam questions. 
+
+
+
+
+
+
+
+## Trolley Problem
+
+![Trolley Problem](trolley.jpg)
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+- commission versus omission - level of responsibility
+
+
+## Trolley Problem: Issues
+
+- utility: greatest good for greatest number
+
+- commission versus omission - level of responsibility
+
+        - ends and means
+
+
+## Trolley Problem and Government
+
+- Government adds more issues
+
+        - delegation - lack of accountability/responsibility
+        - use of coercive force 
+
+
+## Trolley Problem: Solutions
+
+- level of responsibility 
+
+        - 5 to 1, versus 500 to 1, 5 billion to 1. Does it make a difference?
+        - Is there a line or is the answer always the same?
+        - Related: Baby Hitler problem
+        
+- Widely accepted answer when faced with this sort of decision:
+
+        - You should consider the options seriously
+        - Whichever you choose, you question if the decision was right after you make it
+
+
+
+## Reciprocity aka The Golden Rule
+
+- The Golden Rule in a variety of forms from many world religions and non-religious philosophies:
+
+> Hurt not others in ways that you yourself would find hurtful.
+
+        - Attributed to the Buddha
+
+
+## Other Statements of the negative Golden Rule
+
+> "What is hateful to you, do not do to your neighbor. That is the whole of the Torah. All else is commentary. Go and contemplate it."
+
+        - Hillel the Elder
+        
+
+
+
+## The positive Golden Rule
+
+> "Do unto others as you would have them do unto you"
+
+        - Jesus of Nazareth
+        
+
+## The Golden Rule plus some extra
+
+> "None of you has faith until he loves for his brother what he loves for himself."
+
+        - Hadith attributed to the Prophet Muhammed, PBUH
+        
+
+## Philosophical (non-religious) Golden Rule{background-color="red" background-image="confucius.jpg" background-size="200px" background-repeat="repeat"}
+
+
+
+> 己所不欲，勿施於人
+
+> Do not do to others what you do not want others to do to you.^[The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty.]
+
+        - Confucius 孔子
+        
+
+## Golden Rule beyond humans
+
+> One who is going to take a pointed stick to pinch a baby bird should first try it on himself to feel how it hurts. 
+
+        - Yoruba proverb
+        
+
+## Golden Rule and the Dharma
+
+> "One should never do that to another which one regards as injurious to one's own self. This, in brief, is the rule of Righteousness [Dharma]."^[https://www.mahabharataonline.com/translation/mahabharata_13b078.php] 
+
+        - Mahabharata Anusasana Parva - Translation by KM Ganguly
+        
+        
+## Other Approaches 
+
+
+::: {.custom-style style="font-size: 80px;"}
+Two basic concerns then are thoughtfulness (or deliberativeness) and reciprocity.
+:::
+
+::: {.custom-style style="font-size: 80px;"}
+What are some other approaches?
+:::
+
+
+## Theories of Ethics: Utilitarianism 
+
+::: {.custom-style style="font-size: 80px;"}
+Utilitarianism: The right is based on consequence. The right consequence is achieving the greatest good for the greatest number. 
+:::
+
+
+## Theories of Ethics: Utilitarianism 
+
+::: {.custom-style style="font-size: 80px;"}
+Issue with Utilitarianism:
+:::
+
+::: {.custom-style style="font-size: 80px;"}
+Means vs. Ends: Are there any actions so wrong that the consequence can not justify them?
+:::
+
+
+
+
+## Theories of Ethics: Ethical Nihilism
+
+::: {.custom-style style="font-size: 80px;"}
+Ethical nihilism: There is no right or wrong and, therefore, no reason to hold oneself or others to any standards.
+:::
+
+
+## Theories of Ethics: Ethical Nihilism
+
+::: {.custom-style style="font-size: 80px;"}
+Issue with nihilism: Do you want to live in that world where no one has any ethical standards in the way they treat *you*?
+:::
+
+
+## Theories of Ethics: Ethical Relativism
+
+::: {.custom-style style="font-size: 80px;"}
+Morality is relative to the norms of a culture, and what is considered right and wrong depends solely on the society in which the action occurs.
+:::
+
+
+## Theories of Ethics: Ethical Relativism
+
+
+::: {.custom-style style="font-size: 80px;"}
+Issues with Ethical Relativism: 
+:::
+
+- If our concern is building an ethical society, how is this any more useful than ethical nihilism?
+- There seem to be universal or nearly universal values, even if they vary in details:
+
+        - The Golden Rule in some form
+        - Prohibitions on unjustified killing
+        - Prohibitions on taking the rightly owned property of others
+        
+        
+## Theories of Ethics: Ethical Relativism
+
+- How can we condemn past wrongs of our own society and improve ourselves if we hold that the only ethical standards that matter are those of the culture?
+
+        - If Abolitionists had accepted ethical relativism, we would still have slavery.
+        - If the voting standards of 1910 were accepted as correct under ethical relativism, women would still not be able to vote.
+        - If the standards on punishment of 1500 were judged under ethical relativism, we would still draw and quarter people convicted of a wide range of capital crimes.
+        
+
+## Government as Trustee
+
+::: {.custom-style style="font-size: 80px;"}
+A major concept in ethical standards for government officials is that they are trustees of the people.
+:::
+
+## Private Trustees or Fiduciaries
+
+In the private sector, Lawyers, Physicians, Corporate Directors, Financial Advisors, Real Estate Agents, and many others have a responsibility called *fiduciary* that requires them to set aside their own self-interest and act in the best interest of their clients. 
+
+
+## Private Trustees or Fiduciaries
+
+Fiduciary responsibilities include:
+
+- Duty of Loyalty
+- Duty of Care
+- Duty of Good Faith and Fair Dealing 
+- Duty of Confidentiality
+- Full Disclosure
+- Record Keeping
+- Informing Clients
+
+
+## Duty of Loyalty
+
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must act in the interests of the other party, not their own. 
+:::
+
+## Duty of Care
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must act prudently and diligently. 
+:::
+
+## Duty of Good Faith and Fair Dealing
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must deal fairly with others. 
+:::
+
+
+## Duty of Confidentiality
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must keep information confidential and not disclose it for their own benefit. 
+:::
+
+
+## Duty of Full Disclosure 
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must disclose any conflicts of interest. 
+:::
+
+
+## Record Keeping
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries must keep true and complete records of the other party's money and property. 
+:::
+
+
+## Informing Clients
+
+::: {.custom-style style="font-size: 80px;"}
+Fiduciaries should immediately inform clients when problems arise. 
+:::
+
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+
+        - National security and "immediately inform" standard
+        - Confidentiality in some cases of public interest such as "fair and speedy public trials"
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+- In most cases should government officials least live up to the standards of the capitalist private sector?
+
+
+## Government Officials vs Private Fiduciaries
+
+- There are occasions where some may reasonably not apply
+- In most cases should government officials least live up to the standards of the capitalist private sector?
+- If government officials are not expected to live up to the standards of the capitalist free market which only has economic power, how can we trust them with the coercive use of violent force?
+
+
+## Good and bad in government
+
+- Today, we tend to categorize government as "good" the more it involves the participation, especially through voting, of larger parts of the population
+- We consider it "bad" as power becomes concentrated in fewer and fewer hands, with the powerful dictator as the worst type. 
+
+## Aristotle's conception of government
+
+- Aristotle divided government into three levels on this basis, too
+- But each level had two forms
+- True forms
+
+        - based on common good
+        - pure
+        
+- Despotic forms
+
+        - based on selfish interest
+        - corrupt
+
+## Aristotle's forms of government
+
+![Aristotle's Typology](govt_types.jpg)
+
+## Aristotle's forms and government ethics
+
+Questions for each ethical category
+
+- How does a behavior contribute to maintaing the True form of the government?
+- How does a behavior contributed to degrading the government, making it more Despotic?
+- Is the action for the Common Good or the Selfish Interest?
+
+## Aristotle's forms: Slight digression
+
+Related point about Constitutional Government:
+
+- Constitutional government has as one of its purposes, using the self-interest of groups to limit ("check" and "balance") each other to maintain the True form and prevent the slide to Despotism.
+
+- Why do we think Democracy is better than Monarchy? Two reasons:
+
+        - Changing meaning of Democracy. 
+        - Human equality, a society of dignified equals, equality before the law.
+        
+
+
+## To think about this semester
+
+
+![John Wick](john_wick.jpg)^[- John Wick from Lionsgate Films]
+
+
+
+## To think about this semester
+
+::: {.custom-style style="font-size: 80px;"}
+Who is morally culpable^[responsible, blameworthy, guilty], the assassin or the client who hires him?
+:::
+
+
+
+
+# Next class: Congressional Ethics
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+Graphics Credit: Unless otherwise noted graphics are from Norton Publishers
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+

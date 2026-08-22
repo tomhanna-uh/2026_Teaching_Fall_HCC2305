@@ -4,9 +4,6 @@ subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: "September 9, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -14,6 +11,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -239,6 +239,11 @@ Come ready to connect amendments and structure to specific listed rights.
 ## Reminders
 
 - Module 1 Study Guide and Connect due **September 18**
+- Module 1 Quiz **September 21** **In class**
+
+        - Take all quizzes and you are exempt from the final
+        - The quizzes will be easier than taking the final
+        - You will get a better grade by taking all the quizzes
 
 ## Authorship and License
 

@@ -1,0 +1,441 @@
+---
+title: |
+    | GOVT2305: American Government 2
+    | Lecture 20: Public Finance
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: April 15, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2305, Spring 2025, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today: Public Finance
+
+        1. Types of Taxes (Federal and state)
+        2. Bonds (Federal and State)
+        3. Income Tax System (Taxpayer Perspective) 
+        4. Federal Budget Process
+        
+- Next class: Ethics and the Citizen
+
+## Announcements
+
+
+
+# Public Finance
+
+## Types of Taxes
+
+- Federal Taxes        
+
+        - Income Tax
+        - Capital Gains Tax
+        - Payroll Tax 
+        - Corporate Tax
+        - Excise Tax
+        - Tariffs
+        - Estate Tax & Gift Tax
+
+- Texas Taxes
+
+        - Sales Tax
+        - Property Tax
+        - Franchise Tax
+        - Motor Vehicle Tax
+        - Severance Tax
+        - Hotel Occupancy Tax
+        
+## Federal Tax Sources
+
+![Federal Tax Sources](fedtaxes.jpg){#federal_tax_sources .class .class2}
+
+
+## Texas Tax Sources
+
+![Texas Tax Sources](pie.png){#texas_tax_sources .class .class2}
+Source: [Texas Comptroller](https://comptroller.texas.gov/)
+
+
+
+## Extra Credit
+
+
+
+## Texas Tax Sources
+
+:::{.custom-style style="font-size: 80px;"}
+Does not include the more than 25% of Texas state revenue that comes from the federal government
+:::
+        
+        
+## Income and Sales Taxes: Progressive and Regressive taxes
+
+
+
+![Progressive and Regressive taxes](prog-and-reg1.png)]   
+
+Source:[Brief: Progressive and Regressive Taxes](https://www.austaxpolicy.com/what-are-progressive-and-regressive-taxes/)
+        
+## Income Tax Rates
+
+
+![Income Tax Rates](brackets2025.png){#income_tax_rates .class .class2}
+
+Source: [Mass Mutual Blog](https://blog.massmutual.com/planning/tax-changes-2025)
+        
+
+## Capital Gains Tax: Gains and Losses from Investments
+
+- Includes startup businesses, stocks, bonds, real estate including private residences, and collectibles
+- Short-term capital gains: 1 year or less
+- Long-term capital gains: 1 year or more
+- Taxed at a lower rate than ordinary income
+- Taxable events are triggered by the sale of the asset because...
+
+
+
+## Capital Gains Tax: Gains and Losses from Investments
+
+
+:::{.custom-style style="font-size: 80px;"}
+What goes up can come down, so the gain is just paper until it is converted to dollars by a sale
+:::
+
+
+## Payroll Taxes
+
+- Paid by employers and employees from wage withholding
+
+         Security (OASDI) - 6.2% from employer and 6.2% from employee on first $176,000/year 
+        - Medicare - 1.45% from employer and 1.45% from employee
+        - Total 7.65% from employer and 7.65% from employee
+        
+- Unemployment Insurance (UI) 
+
+        - paid by employer only
+        - Federal Unemployment Tax Act (FUTA) - 6.0% on first $7,000 of wages
+        - Texas State Unemployment Tax Act (SUTA) - 0.25% to 6.25% on first $9,000 of wages by employer experience rating
+
+## Corporate Tax
+
+- Tax on profits of corporations
+
+- People will often ask, "Why does Company X have $10 billion in sales and not pay any federal income tax?"
+
+- Not taxes on sales or revenues because...
+
+
+## Corporate Tax
+
+:::{.custom-style style="font-size: 80px;"}
+If expenses are higher than sales, there is no profit or income, there is a loss! 
+:::
+
+ - Losses "carry forward" to future years counting against future income
+ 
+ 
+
+## Excise Taxes, Tariffs
+
+- Excise Taxes
+
+        - taxes on specific goods and services
+        - gasoline, alcohol, tobacco, airline tickets, etc.
+        - paid by the consumer but collected by the seller
+        - paid by the seller to the government
+        
+- Tariffs
+
+        - taxes on imported goods
+        - paid by the importer but passed on to the consumer at least partially
+        
+        
+## Estate and Gift Taxes
+        
+- Estate Taxes
+
+        - Combined Estate and Gift Tax lifetime exemption of $13.99 million (2025) (will be cut 50% when 2017 tax cust expire)
+        - taxes on the value of an estate at death
+        - paid by the estate before distribution to heirs
+        - not paid on gifts to spouses or charities
+
+- Gift Taxes
+
+        - taxes on gifts over $17,000 per year
+        - paid by the giver of the gift
+        - not paid by the recipient of the gift
+        - not paid on gifts to spouses or charities
+
+
+## Bonds
+
+- Federal Bonds
+
+        - Taxable
+        - Issued to cover the national debt
+        - Total debt level must be approved by Congress
+        
+- State Bonds and Municipal Bonds (Munis)
+
+        - Nontaxable at the federal level with a few exceptions 
+        - Cover state, local and county expenses
+        - In most states, require voter approval
+        
+## Munis vs Federal
+
+![Munis vs Federal Bonds](muni_fed.png){#muni_fed .class .class2}
+
+Source: [Finance Strategits](https://www.financestrategists.com/)
+
+
+
+## Types of Munis
+
+![Municipal Bonds](munis.jpg){#muni_bonds .class .class2}
+
+
+Source: [Napkin Finance](https://napkinfinance.com/napkin/municipal-bonds/)
+        
+        
+
+
+
+## Taxpayer's Perspective
+
+Things Boomers complain about on social media
+
+<!-- make this image tage accessible including alt and caption tags ![What are taxes and how do I pay them](how_to_pay.png)  -->
+
+![What are taxes and how do I pay them](how_to_pay.png){#how_to_pay .class .class2}
+
+## Taxpayer's Persepective
+
+::: {.custom-style style="font-size: 80px;"}
+Everyone in this class could figure this out today with the link to the IRS website using long hand math on paper, if you had to!
+:::
+
+
+## Taxpayer's Perspective
+
+- Withholding
+- W4, W2, 1040, 1099
+- Gross Income, Adjusted Gross Income, Taxable Income
+- Tax Brackets
+- Tax Credits vs. Tax Deductions
+- Standard Deduction vs. Itemized Deductions
+- Paying your taxes: Tax software & Tax professionals
+
+
+## Paying Your Taxes: Process
+
+- Withholding 
+
+        - W4 sets withholding amount from paycheck
+
+        
+- Filing the return
+
+        - W2 shows information withholding
+        - 1099 shows income from other sources
+        - 1040 series are tax return forms
+        - Gross Income: Total received
+        - Adjusted Gross Income: Gross income minus adjustments
+        - Taxable Income: AGI minus deductions
+        
+## Credits and Deductions
+
+- Credits
+
+        - dollar for dollar reduction in tax liability
+        - May be a percentage
+        - refundable or nonrefundable
+        - Child Tax Credit, Earned Income Tax Credit, American Opportunity Tax Credit, Lifetime Learning Credit
+        
+- Deductions
+
+        - commonly called "write-offs"
+        - reduces taxable income
+        - reduces tax liability by the tax rate x deduction (less than 100%)
+        
+## Deduction Example
+
+![Income Tax Rates](brackets2025.png){#income_tax_rates .class .class2}
+
+## Deduction Example
+
+- Tax Rate: 22%
+- Deduction Amount: $10,000
+- Tax Liability Reduction: $10,000 x 22% = $2,200
+- Tax Paid after deduction: $10,000 - $2,200 = $7,800
+
+
+        
+## You can't make money from "write-offs"
+
+:::{.custom-style style="font-size: 80px;"}
+It is mathematically impossible to make money from a deduction or a credit of less than 100%
+:::
+
+
+
+## Standard vs. Itemized Deductions
+
+:::{.custom-style style="font-size: 80px;"}
+You have to pick one or the other. No, you can't have both.
+:::
+        
+        
+## Standard vs. Itemized Deductions
+
+![Standard Deductions - You get this for breathing](standard-deductions.png){#standard_deductions .class .class2}
+
+Source: [Money Guy](https://moneyguy.com/article/the-irs-just-announced-2025-tax-changes/)
+
+## Standard vs. Itemized Deductions
+
+- Itemized deductions
+        
+        - Add up the deductions
+        - Must be allowable deductions
+        - Examples: mortgage interest, medical expenses over 7.5% of AGI, state and local taxes, charitable contributions, unreimbursed business expenses
+        - Must be more than the standard deduction to be worth it
+        - Auditable
+
+
+
+
+
+
+## Paying Your Taxes: Payment
+
+- Filing result
+
+        - refund 
+        - balance due
+        
+- Pay online: [https://www.irs.gov/payments](https://www.irs.gov/payments)
+
+
+
+## Filing the 1040: IRS Help
+
+- The IRS has a free online tool to help you determine your filing status and whether you need to file a tax return [https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+- If you can read and do 6th grade math, you can do them by hand
+- The IRS offers free filing software for qualified taxpayers [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+
+
+
+
+## Filing the 1040: Software
+
+- [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+- Most Free File providers will offer a paid version if you don't qualify for Free File
+- Paid Software available on:
+
+        - Amazon.com
+        - Walmart.com
+        - TurboTax.com
+        - H&R Block
+        - TaxActOnline.com
+        
+- Software available in stores
+
+        - Walmart
+        - Staples
+        - Office Depot
+        - Many others
+
+        
+
+## Paying Your Taxes: Tax Professionals
+
+- Franchise and locally owned Tax Preparers
+
+        - Example: H&R Block, Jackson Hewitt, Liberty Tax
+        - No formal training, education required
+        - May offer other services including audit protection and refund anticipation loans
+        
+- Enrolled Agents
+
+        - IRS’s Special Enrollment Examination (SEE) 
+        - 3 sections for individual, business, and representation
+        - Can represent clients during an audit
+        
+- Certified Public Accountants (CPAs)
+
+        - Licensed by the state
+        - Must pass a rigorous exam
+        - Must complete continuing education requirements
+        - Can represent you before the IRS
+        - Can provide tax planning and advice
+        - Some may even be graduates of the Bauer School of Business
+
+
+
+        
+
+
+
+## Federal Budget Process
+
+- Fiscal year
+- Budget Process
+- Budget Deficit and National Debt
+
+
+## Fiscal Year
+
+![Fiscal vs Calendar Year](fiscal.jpg){#fiscal .class .class2}
+
+
+## Budget Process
+
+![Budget Process](budgetprocess.jpg){#budgetprocess .class .class2}
+Source: [House Budget Committee](https://budget.house.gov/budgets/process)
+
+## Budget Deficit, Budget Surplus, and National Debt
+
+![Budget Deficit, Budget Surplus, and National Debt](debt.png){#budgetdeficit .class .class2}
+
+Source: [Budget Deficit, Budget Surplus, and National Debt](https://www.nationalpriorities.org/campaigns/us-federal-debt-what/)
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+

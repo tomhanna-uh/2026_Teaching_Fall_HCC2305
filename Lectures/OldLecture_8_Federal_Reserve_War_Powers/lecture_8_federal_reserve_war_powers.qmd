@@ -1,0 +1,242 @@
+---
+title: "Major Examples: Federal Reserve and War Powers"
+subtitle: "GOVT2305: Federal Government"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "HCC GOVT2305, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+
+
+# Agenda and Announcements
+
+## Agenda Today 
+
+- Part I: The Federal Reserve - fact and fiction
+
+- Part II: War Powers
+
+- Both parts will be a mix of lecture, questions, and discussion
+
+
+
+## Upcoming Dates
+
+- Semester Drawing to a close
+
+- Module 3 Quiz August 3
+
+        - Study Guide due Friday
+        - Journals Due Monday
+        - Connect Due Monday
+        
+- Module 4 Quiz August 4
+
+        - Everything for Module 4 due Tuesday
+
+
+- All late work due August 6
+
+- Finals - August 5 and 6 per HCC schedule
+
+## Finals Schedule
+
+- Monday-Tuesday 8 AM class: August 5, 7 AM --- GRRRRRRR!
+
+- Monday-Tuesday 10:30 AM class: August 6, 9 AM
+
+- Monday-Tuesday 1 PM class: August 6, 1 PM
+
+## Final Exam Rules (be on time!)
+
+- If no one is here within 10 minutes of start time, I will leave
+- Once the first student finishes, no one else will be allowed to start the exam
+- The time limit will end after 1 hour 50 minutes to allow the next class to enter
+- There will be sufficient time for accommodations for people who arrive on time - it is your responsibility to do so
+
+
+# The Federal Reserve System
+
+## I. Core Functions of the Federal Reserve
+
+### Monetary Policy
+- FOMC sets target range for federal funds rate
+- Influences rate via interest on reserves, ON RRP, open market operations
+- Dual mandate: maximum employment + stable prices
+- Discount rate set directly by Fed (collateralized discount window lending)
+
+### Bank Supervision and Regulation
+- Oversees bank holding companies and state member banks
+- Shares landscape with OCC, FDIC, CFPB, and state regulators
+
+### Payment Systems and Financial Services
+- Historical check clearing; now Fedwire, FedNow, other settlement systems
+- Critical payment-system infrastructure
+
+### Lender of Last Resort
+- Discount window: short-term *collateralized* liquidity
+- Collateral always required (securities + loans)
+- Expanded in crises (2008, 2020); never eliminated
+
+### Fiscal Agent for the U.S. Treasury
+- Maintains Treasury account, issues/redeems securities, processes tax payments
+- Historical parallel: Bank of England (1694) after Glorious Revolution
+  - Credible public debt → lower borrowing costs → capital-market development (North & Weingast)
+- Current relevance: helps keep government borrowing costs lower amid high federal debt
+
+## II. Monetary Policy Independence — Why It Matters
+- Congress sets goals; Fed decides day-to-day means
+- Designed to reduce short-term political pressure on rates
+- Comparison to judicial independence:
+  - Governors: 14-year staggered terms (cross administrations)
+  - Chair: separate 4-year renewable term (often begins mid-presidential term; frequently continues into next administration)
+  - Unlike life-tenured judges: limited terms + ongoing accountability to Congress
+- “Independent *within* the government,” not outside it
+
+## III. Addressing Major Conspiracy Theories
+
+### Theory 1: “Private bank owned by bankers / foreign elites / Rothschilds for private profit”
+- **Grain of truth**: Member banks hold non-transferable stock; Reserve Banks have private-sector directors
+- **Reality**:
+  - Hybrid created by Congress (Federal Reserve Act 1913)
+  - Board of Governors = federal agency (presidential appointment + Senate confirmation)
+  - Stock: mandatory, limited statutory dividend (6% smaller banks; lesser of 6% or 10-year Treasury yield for larger), no residual ownership
+  - Excess earnings remitted to Treasury
+  - No credible evidence of Rothschild/foreign family control
+
+### Theory 2: The “Audit the Fed” Conspiracy Theory  
+*(“Secret, unaccountable, never audited”)*
+- **Grain of truth**: Monetary-policy deliberations insulated from direct GAO evaluation of judgments; 1910 Jekyll Island meeting was secretive
+- **Reality**:
+  - Annual independent external audits of Board and Reserve Banks
+  - Board OIG ongoing audits/investigations
+  - Frequent GAO reviews of operations, supervision, emergency facilities
+  - Weekly balance sheet; semiannual Monetary Policy Report; regular congressional testimony
+  - FOMC minutes released ~3 weeks after meeting
+  - Full transcripts + staff materials released after 5-year lag
+  - “Audit the Fed” proposals usually seek to remove the monetary-policy carve-out
+  - Outside analysis and criticism of data/actions/outcomes already continuous
+
+### Theory 3: “Created in bankers’ conspiracy (Jekyll Island) to engineer inflation / boom-bust cycles”
+- **Grain of truth**: 1910 Jekyll Island meeting secretive + involved leading bankers; pre-Fed panics (e.g., 1907); monetary policy affects inflation and cycles
+- **Reality**:
+  - Draft substantially modified, publicly debated, enacted by Congress under Wilson
+  - Progressive-Era compromise: fear of centralized power vs. need for lender of last resort + elastic currency
+  - Excess profits to Treasury, not private shareholders
+  - Independence, long terms, multi-layered audits designed to limit capture
+  - Policy mistakes real and debated; hidden-cabal claim unsupported by design or fund flows
+
+## IV. Closing Bridge to Discussion
+- Hybrid, imperfect institution created by and accountable to Congress
+- Actual structure (public Board + regional banks + limited stock + Treasury remittances + audits/disclosure) best antidote to conspiracy claims
+- Discussion prompts:
+  - Which parts still seem opaque or problematic?
+  - How does the independence trade-off compare to other institutions?
+
+
+
+# War Powers in Recent Conflicts
+
+*(Second half of lecture day)*
+
+## I. Opening Frame
+
+- Article I (Congress declares) vs. Article II (Commander-in-Chief)
+- War Powers Resolution 1973: attempt at “collective judgment”
+- Five decades of practice: executive expansion, congressional difficulty reclaiming authority
+- Today’s cases: Venezuela (Jan 2026) first, then Iran (Feb 2026–)
+
+## II. Case Study 1: Venezuela Operation (January 2026)
+
+### What happened
+
+- Military operation inside Venezuela
+- Capture of Nicolás Maduro and Cilia Flores
+- Transfer to U.S. for federal criminal charges
+- Kinetic strikes; significant reported casualties
+
+### Administration framing
+
+- Law-enforcement action facilitated by military
+- Article II authority + national interests
+- Claims it did not fully constitute “war” or “hostilities”
+
+### Precedent: Operation Just Cause (Panama, Dec 1989)
+
+- Capture of Manuel Noriega on drug-trafficking charges
+- Mix of criminal-law goals + military force to remove head of state
+- Justifications: protect Americans, democracy, drug trafficking, canal treaties
+- Practical precedent later administrations have echoed
+
+### War Powers issues
+
+- Did it trigger 48-hour report and 60-day clock?
+- Link to earlier Caribbean boat strikes (drug/terror designations)
+- Later arguments that some remote/drone strikes fell below “hostilities” threshold (low risk to U.S. personnel)
+- Multiple congressional resolutions seeking termination; some bipartisan, none veto-proof
+
+### Teaching points
+
+- Blurred line: law enforcement vs. use of force against a state
+- Historical precedent undercuts pure novelty claims
+- Post-*Chadha*: concurrent resolutions = political signal, not enforceable command
+
+## III. Case Study 2: Iran Conflict (February 2026–present)
+
+### Timeline
+
+- ~28 Feb 2026: major strikes begin; 48-hour reports under Article II
+- May 2026: administration claims hostilities “terminated” after April ceasefire (attempt to stop/reset 60-day clock)
+- Both chambers pass concurrent resolutions directing withdrawal (first time for ongoing conflict; still non-binding)
+- June–July 2026: renewed strikes; new 48-hour reports citing Iranian attacks on shipping in Strait of Hormuz
+
+### Core disputes
+
+- Does a ceasefire truly terminate hostilities for the clock?
+- Continued reliance on broad Article II “respond to threat” claims
+- Weakness of concurrent resolutions after *Chadha*
+
+## IV. Broader Patterns
+
+- Narrowing of “hostilities” (risk to U.S. personnel, no ground troops, remote ops) — Libya 2011 as key precedent
+- 60-day clock more reporting/political deadline than automatic off-switch
+- Courts largely treat disputes as political questions
+- Both parties expand executive latitude when in the White House
+
+## V. Bridge to Discussion
+
+- 1973 statute applied to capture ops, maritime interdictions, precision strikes, protracted campaigns
+- Congress still has tools (funding, new AUMFs, joint resolutions) but rarely the political will or super-majorities
+- Move to discussion questions (esp. 60-day clock as limit/license; modern definition of hostilities; declarations vs. open-ended AUMFs)
+
+
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../../assets/creative_commons_license.png)</a>

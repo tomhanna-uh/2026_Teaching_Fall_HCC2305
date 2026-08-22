@@ -4,9 +4,6 @@ subtitle: "GOVT 2305: Federal Government"
 author: "Instructor: Tom Hanna"
 date: "August 31, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -14,6 +11,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
     footer: "HCC GOVT 2305, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   pptx: {}
   html:
     toc: true
@@ -201,7 +201,6 @@ Come ready to connect origins → *how* the Constitution tries to limit the forc
 
 ## Reminders
 
-- Module 0 substantially complete by **August 30** (avoid drop)
 - Module 1 Study Guide and Connect due **September 18**
 
 ## Authorship and License
